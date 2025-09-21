@@ -1,0 +1,1441 @@
+{
+  "instruction": "Answer the question based on the passage.",
+  "output_length": 771,
+  "metrics": [
+    "drop_f1",
+    "exact_match"
+  ],
+  "n_samples": 100,
+  "samples": [
+    {
+      "input": "Still looking to win the AFC North division after a disappointing Week 15 loss at San Diego, the Bengals went back home to Cincinnati to take on the Kansas City Chiefs.The first quarter was quiet, with neither team managing to get any points.Near the end of the first half, the Chiefs got a penalty for a bad snap before a punt. The ball went over the kicker's head, and resulted in a 1st and Goal for the Bengals. Carson Palmer then threw a touchdown pass to Chad Ochocinco, but the touchdown was reversed because he went out of bounds before he made the catch. The Bengals were then forced to settle for a 29-yard field goal by Shayne Graham, to make the score 3-0 Bengals. At the end of the first half, Ryan Succop kicked a 30-yard field goal for the chiefs, making the halftime score a tie, 3-3. The Bengals' offense did better at the beginning of the 3rd quarter, getting into the red zone in their first drive of the second half. Carson Palmer then threw a touchdown pass to Laveranues Coles, to put the Bengals on top, 10-3. Eight seconds into the 4th quarter, Tim Castille caught his first career touchdown, a 20-yard reception, to tie the score again, 10-10. The Bengals got yet another touchdown in the 4th quarter, and won the game 17-10. With the win, the Cincinnati Bengals clinched the AFC Northern Division Title and improved their regular season record to 10-5. How many field goals did Succop kick in the second quarter?",
+      "output": "1",
+      "metadata": {
+        "section_id": "nfl_1398",
+        "query_id": "d5ef87f4-08b2-4fda-b6a6-70e09cd20a4f",
+        "all_answer_spans": [
+          "1"
+        ],
+        "answer_types": [
+          "number"
+        ]
+      }
+    },
+    {
+      "input": "In an attempt to break a three-game losing streak the Titans flew to Reliant Stadium for an AFC South rivalry match against the Texans. The Titans trailed throughout the game as QB Matt Schaub got a 1-yard TD pass to TE Joel Dreessen, followed by his 2-yard TD pass to WR Andre Johnson. The lead was increased when kicker Neil Rackers hit a 35 and a 33-yard field goal. With 7:53 remaining in the 4th quarter, an altercation between Texans WR Andre Johnson and Titans CB Cortland Finnegan broke out, causing both players to be ejected for the rest of the game. Both players' helmets were torn off, then punches were exchanged in return. Despite being ejected, they avoided suspension, but were each fined $25,000 for their actions. With the shut-out loss, not only did the Titans fall to 5-6, but this also became their 3rd straight season being shut out on the road. How many touchdown passes did Matt Schaub throw?",
+      "output": "2",
+      "metadata": {
+        "section_id": "nfl_2129",
+        "query_id": "25caac3e-9942-43bd-9aeb-ee836a7a33c3",
+        "all_answer_spans": [
+          "2"
+        ],
+        "answer_types": [
+          "number"
+        ]
+      }
+    },
+    {
+      "input": "Hoping to add to a four-game winning streak, the Broncos returned home for an AFC West rematch with the San Diego Chargers. The Chargers grabbed the lead in the first quarter, with safety Eric Weddle returning an interception off Broncos' quarterback Peyton Manning 23 yards for a touchdown. The Broncos responded early in the second quarter, with Manning connecting on a 13-yard touchdown pass to wide receiver Demaryius Thomas. On the Chargers' next possession, quarterback Philip Rivers was intercepted by Broncos' safety Jim Leonhard deep in Chargers' territory. However, the Broncos had to settle for a 19-yard field goal by placekicker Matt Prater. On the first play after the two-minute warning, Broncos' linebacker Nate Irving blocked Mike Scifres' punt, and on the next play, Manning threw a 31-yard touchdown pass to wide receiver Brandon Stokley, giving the Broncos a 17-7 lead. The first points of the third quarter came from the Chargers, with linebacker Shaun Phillips sacking Manning in the end zone for a safety. After linebacker Wesley Woodyard recovered a Rivers' fumble deep in Chargers' territory, the Broncos increased their lead, with Manning throwing a 20-yard touchdown pass to wide receiver Eric Decker. However, the Chargers responded late in the third quarter, with Rivers connecting on an 8-yard touchdown pass to wide receiver Danario Alexander. A pair of field goals by Prater in the fourth quarter&#8212;from 30 and 32 yards&#8212;gave the Broncos a 30-16 lead with 4:14 remaining in the game. The Chargers tried to rally, with a 21-yard touchdown pass from Rivers to Alexander with 1:24 remaining. However, the Broncos' recovered the onside kick, and subsequently ran out the clock. With the win, the Broncos earned their first season sweep of the Chargers since 2005, and snapped the Chargers' three-game winning streak in Denver. Nate Irving's block of a Mike Scifres' punt marked the first time since 2007 that the Broncos' special teams blocked a punt. This was the only game during the 2012 season in which the Broncos wore their alternate navy blue jerseys. Running back Willis McGahee suffered a ruptured MCL and compression fracture in his right knee during the second quarter, when his knee was hit by the helmet of Chargers' cornerback Quentin Jammer. On November 21, McGahee was placed on the injured reserve/designated for return list. How many points were scored in the third quarter?",
+      "output": "16",
+      "metadata": {
+        "section_id": "nfl_2372",
+        "query_id": "08f223a1-606f-4084-9472-33d3c3e139b9",
+        "all_answer_spans": [
+          "16"
+        ],
+        "answer_types": [
+          "number"
+        ]
+      }
+    },
+    {
+      "input": "Karatsu domain was founded in 1593, by Terazawa Hirotaka, who was granted lordship of Karatsu and landholdings of 83,000 koku. He was also Nagasaki bugyō under the Tokugawa bakufu. The Terazawa clan took part in the Battle of Sekigahara on the side of Tokugawa Ieyasu and received an additional 40,000 koku of land, bringing the total revenues of the domain up to 123,000 koku. The Terazawa took part in the Shogunate's expedition to suppress the Shimabara Uprising. The family held on to Karatsu until 1647, when Hirotaka's son Katataka committed suicide; due to a lack of heir, the family came to an end and the domain was confiscated by the central government. Several families were rotated through Karatsu for the next century: two generations of the Ōkubo clan; three generations of the Ogyū-Matsudaira clan, four generations of the Doi clan, and four of the Mizuno clan, including the famous reformer Mizuno Tadakuni. The domain then passed into the hands of Ogasawara Nagamasa, whose family remained until Karatsu domain was abolished in 1871. During the Boshin War of the Meiji Restoration of 1868-69, Ogasawara Nagamichi, the de facto ruler of Karatsu, led a group of his retainers on the side of the Ōuetsu Reppan Dōmei; after the fall of this alliance he went to Ezo and fought under the forces of the Ezo Republic. At the same time, Karatsu's domain-based administration was forced to pledge military support to the Satchō Alliance of Emperor Meiji. Ogasawara Naganari, the Meiji period Imperial Japanese Navy admiral, was a descendant of the Ogasawara branch which ruled Karatsu. What happened first: Karatsu domain was founded or Katataka committed suicide?",
+      "output": "Karatsu domain was founded",
+      "metadata": {
+        "section_id": "history_827",
+        "query_id": "27575a58-2883-4070-b5ff-270dcdc5b251",
+        "all_answer_spans": [
+          "Karatsu domain was founded"
+        ],
+        "answer_types": [
+          "span"
+        ]
+      }
+    },
+    {
+      "input": "Hoping to rebound from their last-second road loss to the Steelers, the Browns flew to M&T Bank Stadium for an AFC North rematch with the Baltimore Ravens. In the first quarter, Cleveland drew first blood as kicker Phil Dawson managed to get a 28-yard field goal for the only score of the period. In the second quarter, the Browns increased its lead as RB Jamal Lewis (in his first game back in Baltimore) managed to get a 1-yard touchdown. The Ravens managed to get on the board with LB Ray Lewis returning an interception 35&#160;yards for a touchdown. Fortunately, Cleveland responded with Dawson kicking a 39-yard field goal. In the third quarter, Baltimore took the lead with RB Willis McGahee getting a 2-yard TD run. Fortunately, the Browns replied with QB Derek Anderson getting a 1-yard TD run, while Safety Brodney Pool returned an interception 100&#160;yards for a touchdown. In the fourth quarter, the Ravens tied the game with kicker Matt Stover (a former Brown) managed to kick a 34-yard & a 41-yard field goal, while QB Kyle Boller completed a 27-yard TD pass to WR Devard Darling. Afterwards, Baltimore retook the lead with Stover kicking a 47-yard field goal. Cleveland tried to make a comeback, as they managed to get into field goal range. Initially, Dawson's 51-yard attempt was ruled no good. However, it turns out that the ball bounced off the left upright, went in, bounced off the support bar behind the crossbar, and then went back over the crossbar and onto the field. In the end, the Browns were awarded the field goal, tying the score at 30-30 and sending the game to overtime. In overtime, Cleveland sealed the Ravens' fate as Dawson nailed the game-winning 33-yard field goal. With the win, not only did the Browns improve to 6-4, but it also marked the first time since 2001 that Cleveland swept Baltimore. WR/KR/PR Josh Cribbs became the 3rd NFL player since the AFL-NFL merger of 1970 to have 300+ return yards in one game. Which player scored the last touchdown of the game?",
+      "output": "WR Devard Darling",
+      "metadata": {
+        "section_id": "nfl_545",
+        "query_id": "c9abff5c-7bc4-47d3-8c1c-7f2c8ed9433b",
+        "all_answer_spans": [
+          "WR Devard Darling"
+        ],
+        "answer_types": [
+          "span"
+        ]
+      }
+    },
+    {
+      "input": "In the county, the population was spread out with 34.20% under the age of 18, 9.80% from 18 to 24, 26.30% from 25 to 44, 19.40% from 45 to 64, and 10.40% who were 65 years of age or older. The median age was 30 years. For every 100 females there were 104.50 males. For every 100 females age 18 and over, there were 102.10 males. Which age group is larger: 25 to 44 or 45 to 64?",
+      "output": "25 to 44",
+      "metadata": {
+        "section_id": "history_1873",
+        "query_id": "df4e02bc-02c7-42a9-85be-4b53ab96bc89",
+        "all_answer_spans": [
+          "25 to 44"
+        ],
+        "answer_types": [
+          "span"
+        ]
+      }
+    },
+    {
+      "input": "Lower than expected population figures from the census suggest that Karachis poor infrastructure, law and order situation, and weakened economy relative to other parts of Pakistan made the city less attractive to in-migration than previously thought. The figure is disputed by all the major political parties in Sindh. Karachis population grew by 59.8% since the 1998 census to 14.9 million, while Lahore city grew 75.3% – though Karachis census district had not been altered by the provincial government since 1998, while Lahores had been expanded by Punjabs government, leading to some of Karachis growth to have occurred outside the citys census boundaries. Karachis population had grown at a rate of 3.49% between the 1981 and 1998 census, leading many analysts to estimate Karachis 2017 population to be approximately 18 million by extrapolating a continued annual growth rate of 3.49%. Some had expected that the citys population to be between 22 and 30 million, which would require an annual growth rate accelerating to between 4.6% and 6.33%. How many years was the time span where Karachis populations has grown at a rate of 3.49%?",
+      "output": "17",
+      "metadata": {
+        "section_id": "history_2269",
+        "query_id": "95afa69b-f1e3-4200-a0cb-78b5888ff1a6",
+        "all_answer_spans": [
+          "17"
+        ],
+        "answer_types": [
+          "number"
+        ]
+      }
+    },
+    {
+      "input": "Kabuls population is estimated to have been about 10,000 in 1700, 65,000 by 1878, and 120,000 by 1940. More recently, the population was around 500,000 in 1979, whilst another source claims 337,715 as of 1976. This figure rose to about 1.5 million by 1988, before dramatically dropping in the 1990s. Kabul became one of the fastest growing cities in the world, with its population growing fourfold from 2001 to 2014. This was partly due to the return of refugees after the fall of the Taliban regime, and partly due to Afghans moving from other provinces mainly due to war between Taliban insurgents and Afghan government forces in their native areas as well as looking for labor. This resulting rapid urbanization mean that many residents today live in informal settlements. Shanty mud-brick homes on the mountainsides and steep hills have been built by them and these are usually poverty-stricken, not connected to the water and electricity grid. Although the settlements are illegal, they have been tolerated by authorities. In 2017 Kabul Municipality started a project to paint the homes in these settlements in bright colors in an effort to \"cheer up\" residents. Were there more people in the population in 1988 or in all years from 1700 to 1979 combined?",
+      "output": "1988",
+      "metadata": {
+        "section_id": "history_1743",
+        "query_id": "8bcd6407-c86b-4924-adc1-1af784b4b240",
+        "all_answer_spans": [
+          "1988"
+        ],
+        "answer_types": [
+          "span"
+        ]
+      }
+    },
+    {
+      "input": "Trying to break a two-game losing streak, the Broncos went home for a Sunday Night fight with the Seattle Seahawks.  This game would be notable for the NFL debut of QB Jay Cutler.  In the first quarter, the Broncos struck first with kicker Jason Elam's 37-yard field goal for the only score of the period.  In the second quarter, Denver's lead increased with Cutler's 7-yard TD pass to TE Stephen Alexander.  However, the Seahawks got into game with DE Darryl Tapp's 25-yard interception return for a touchdown.  After a scoreless third quarter, Seattle took control of the game with RB Shaun Alexander's 1-yard TD run, along with kicker Josh Brown's 44-yard and 23-yard field goal.  The Broncos responded with a huge play, as Cutler completed a 71-yard TD pass to WR Brandon Marshall.  However, Denver's defense couldn't hold off the Seahawks' response, as Brown nailed a 50-yard field goal, spoiling Cutler's debut.  With their third-straight loss, the Broncos fell to 7-5. How many total field goal yards did Josh Brown kick?",
+      "output": "117",
+      "metadata": {
+        "section_id": "nfl_135",
+        "query_id": "7d0beb17-de51-4619-9eb8-245cfe725e80",
+        "all_answer_spans": [
+          "117"
+        ],
+        "answer_types": [
+          "number"
+        ]
+      }
+    },
+    {
+      "input": "As of March 23, 2011, there were a total of 20,722 registered voters in Plainfield, of which 12,078 (58.3% vs. 41.8% countywide) were registered as Democratic Party (United States), 947 (4.6% vs. 15.3%) were registered as Republican Party (United States) and 7,693 (37.1% vs. 42.9%) were registered as Unaffiliated (New Jersey). There were 4 voters registered to other parties. Among the citys 2010 Census population, 41.6% (vs. 53.3% in Union County) were registered to vote, including 56.1% of those ages 18 and over (vs. 70.6% countywide). How many registered voters were not Deomcrat or unaffiliated?",
+      "output": "951",
+      "metadata": {
+        "section_id": "history_2816",
+        "query_id": "6e071dee-1e40-4974-aadd-57b2ae7f55e5",
+        "all_answer_spans": [
+          "951"
+        ],
+        "answer_types": [
+          "number"
+        ]
+      }
+    },
+    {
+      "input": "Washington traveled to Baltimore for an inter-conference game against the Ravens. Washington won the toss, and elected to receive the opening kick. Washington quarterback Jason Campbell was intercepted early in the drive by Ravens safety Ed Reed. Baltimore running back Le'Ron McClain converted the turnover into points when he scored a rushing TD on the ensuing Ravens possession. Later in the first quarter, the Ravens defense struck for a defensive touchdown when Ed Reed recovered a fumble from Washington running back Clinton Portis. In the third quarter, Ravens kicker Matt Stover extended the Ravens lead with a 32-yard field goal. Early in the fourth quarter, Washington got on the board with a Shaun Suisham 43-yard field goal. Baltimore running back Willis McGahee fumbled on the Raven's next possession, and the Redskins cut the Ravens lead to 17-10 on a touchdown pass to Antwaan Randle-El. The Redskins defense was unable to come up with another stop, and the Ravens ended their next drive with quarterback Joe Flacco throwing a touchdown pass to wide receiver Derrick Mason. Which team scored first in the fourth quarter?",
+      "output": "Washington",
+      "metadata": {
+        "section_id": "nfl_1311",
+        "query_id": "9eb233f4-4876-45f7-aeea-873d0745471f",
+        "all_answer_spans": [
+          "Washington"
+        ],
+        "answer_types": [
+          "span"
+        ]
+      }
+    },
+    {
+      "input": "Hoping to increase their winning streak the Texans played on home ground for an Inter-conference duel with the Cowboys. Houston took the early lead in the 1st quarter when kicker Neil Rackers hit a 24-yard field goal. Then they fell behind with RB Marion Barber getting a 1-yard TD run, followed by kicker David Buehler's 49-yard field goal. The Texans struggled further in the third quarter when QB Tony Romo completed a 15-yard TD pass to WR Roy E. Williams. Houston replied with Rackers nailing a 30-yard field goal, but Dallas continued to score when Romo found Williams again on a 63-yard TD pass. Then David Buehler made a 40-yard field goal. The Texans would finally score when QB Matt Schaub made a 7-yard TD pass to WR Kevin Walter. What are the top two longest field goals made?",
+      "output": "49-yard",
+      "metadata": {
+        "section_id": "nfl_1868",
+        "query_id": "8765ed22-2d05-4499-baf0-f52648d6b969",
+        "all_answer_spans": [
+          "49-yard",
+          "40-yard"
+        ],
+        "answer_types": [
+          "span",
+          "span"
+        ]
+      }
+    },
+    {
+      "input": "In week 4, the Lions flew to The Windy City for a NFC North duel with the Chicago Bears. Detroit threw the opening punch in the first quarter with running back Kevin Smith's 1-yard touchdown run. The Bears would respond with quarterback Jay Cutler's 5-yard touchdown run, yet Detroit answered with rookie quarterback Matthew Stafford completing a 14-yard touchdown pass to tight end Will Heller.  Chicago took the lead in the second quarter with Cutler's 2-yard touchdown pass to tight end Kellen Davis and a 1-yard touchdown pass to tight end Greg Olsen, but the Lions would tie the game prior to halftime with Smith's 3-yard touchdown run, capping off a 98-yard drive. However, in the third quarter, the Bears would set the tempo for the second half.  It immediately began with wide receiver Johnny Knox returning the half's opening kickoff 102 yards for a touchdown, followed by a 52-yard and a 22-yard field goal from kicker Robbie Gould.  Detroit tried to rally in the fourth quarter with kicker Jason Hanson's 35-yard field goal, but Chicago pulled away with running back Matt Fort&#233;'s 37-yard touchdown run and running back Garrett Wolfe's 2-yard touchdown run. Stafford (24-of-36, 296 yards, TD, INT) left the game during the fourth quarter with a knee injury.With the loss, the Lions fell to 1-3. How many touchdowns were there during the first quarter?",
+      "output": "3",
+      "metadata": {
+        "section_id": "nfl_1445",
+        "query_id": "cd56b707-187f-4f55-af3e-6ff7a63c9d27",
+        "all_answer_spans": [
+          "3"
+        ],
+        "answer_types": [
+          "number"
+        ]
+      }
+    },
+    {
+      "input": "Fred Trueman with 216 Test wickets and Brian Statham with 229 were poised to overtake the record of 236 Test records set by the assistant-manager Alec Bedser. Benaud was another contender with 219 wickets, but it was Statham who broke the record (only to be overtaken by Trueman in New Zealand) and Benaud had to be content with breaking Ray Lindwalls Australian record of 228 Test wickets. In an early tour match Benaud took his best first class innings haul of 18-10-18-7 for New South Wales against the MCC, which lost by an innings and 80 runs, the states biggest win against the English team. Benaud started the series with seven wickets and a half century as the First Test in Brisbane was drawn. This was followed by three unproductive Tests which yielded only 5/360 and a win apiece. Benaud returned to form with match figures of 5/142 and 57 in the Fifth Test at Sydney, which ended in a draw when Benaud ordered Bill Lawry and Peter Burge (cricketer) to play out the last afternoon for a draw that would retain the Ashes. They were booed and heckled as they left the field and Benauds reputation as a \"go ahead\" cricket captain was badly tanished. The draw meant that the series was shared 1-1, the first time he had drawn a series after five successive wins. It was another lean series with the ball, Benauds 17 wickets costing 40.47, the third consecutive series where his wickets cost more than 30. His batting was reliable, with 227 runs at 32.47. Who had more Test wickets, Trueman or Statham?",
+      "output": "Statham",
+      "metadata": {
+        "section_id": "history_2702",
+        "query_id": "1d1ac428-d5f5-49cb-8c79-42a2deb65128",
+        "all_answer_spans": [
+          "Statham"
+        ],
+        "answer_types": [
+          "span"
+        ]
+      }
+    },
+    {
+      "input": "Hoping to rebound from their divisional home loss to the Eagles, the Redskins traveled to Texas Stadium for a Week 11 NFC East showdown with the Dallas Cowboys. In the first quarter, the Redskins struck first when quarterback Jason Campbell completed a 19-yard touchdown pass to tight end Chris Cooley for the only score in the quarter. In the second quarter, the Cowboys tied the game with quarterback Tony Romo completing a 4-yard touchdown pass to wide receiver Terrell Owens. Afterwards, the Redskins would take the lead into halftime as kicker Shaun Suisham managed to get a 45-yard field goal. In the third quarter, the Cowboys took the lead as Romo hooked up with Owens again for a 31-yard touchdown pass. the Redskins' response would be Suisham kicking a 39-yard field goal. In the fourth quarter, the Cowboys added onto their lead as Romo and Owens hooked up for a third time on a 46-yard touchdown pass, the Redskins' answer; Suisham kicking a 44-yard field goal. Unfortunately for the Redskins, the Cowboys managed to put the game out of reach with Romo and Owens hooking up for the fourth time on a 52-yard touchdown pass. The Redskins' only response would Campbell's 5-yard touchdown pass to wide receiver Santana Moss. How many total yards did Owens catch in touchdown passes from Romo?",
+      "output": "133",
+      "metadata": {
+        "section_id": "nfl_895",
+        "query_id": "29602446-dc2e-4f3c-a662-6605c66b9752",
+        "all_answer_spans": [
+          "133"
+        ],
+        "answer_types": [
+          "number"
+        ]
+      }
+    },
+    {
+      "input": "Richard arrived at Acre on 8 June 1191 and immediately began supervising the construction of siege weapons to assault the city, which was captured on 12 July. Richard, Philip, and Leopold quarrelled over the spoils of the victory. Richard cast down the German standard from the city, slighting Leopold. In the struggle for the kingship of Jerusalem, Richard supported Guy, while Philip and Leopold supported Conrad, who was related to them both. It was decided that Guy would continue to rule but that Conrad would receive the crown upon his death. Frustrated with Richard , Philip and Leopold took their armies and left the Holy Land in August. Philip left 7,000 French crusaders and 5,000 silver marks to pay them. On 18 June 1191, soon after Richard's arrival at Acre, he sent a messenger to Saladin requesting a face to face meeting. Saladin refused, saying that it was customary for kings to meet each other only after a peace treaty had been agreed, and thereafter \"it is not seemly for them to make war upon each other\". The two therefore never met, although they did exchange gifts and Richard had a number of meetings with Al-Adil, Saladin's brother. Saladin tried to negotiate with Richard for the release of the captured Muslim soldier garrison, which included their women and children. On 20 August, however, Richard thought Saladin had delayed too much and had 2,700 of the Muslim prisoners decapitated in full view of Saladin's army, which tried unsuccessfully to rescue them. Saladin responded by killing all of the Christian prisoners he had captured. Who was Saladin's brother?",
+      "output": "Al-Adil",
+      "metadata": {
+        "section_id": "history_1520",
+        "query_id": "8ffbf062-33a2-4b67-88c5-61ca53a26cb7",
+        "all_answer_spans": [
+          "Al-Adil"
+        ],
+        "answer_types": [
+          "span"
+        ]
+      }
+    },
+    {
+      "input": "The Greater Poland uprising of 1918-1919, or Wielkopolska uprising of 1918-1919  or Posnanian War was a military insurrection of Poles in the Greater Poland region  against German rule. The uprising had a significant effect on the Treaty of Versailles, which granted a reconstituted Second Polish Republic the area won by the Polish insurrectionists. The region was part of the Polish-Lithuanian Commonwealth before the Second Partition of Poland in 1793 when it was taken over by the German Kingdom of Prussia. How many years did the Greater Poland uprising last?",
+      "output": "1",
+      "metadata": {
+        "section_id": "history_638",
+        "query_id": "c3a6d676-16b9-4030-9528-5c9f935cc9d7",
+        "all_answer_spans": [
+          "1"
+        ],
+        "answer_types": [
+          "number"
+        ]
+      }
+    },
+    {
+      "input": "In 2000 there were 128,925 households in Toledo, out of which 29.8% had children under the age of 18 living with them, 38.2% were married couples living together, 17.2% had a female householder with no husband present, and 40.0% were non-families. 32.8% of all households were made up of individuals and 11.0% had someone living alone who was 65 years of age or older. The average household size was 2.38 and the average family size was 3.04. which household was fourth most common?",
+      "output": "under the age of 18",
+      "metadata": {
+        "section_id": "history_2720",
+        "query_id": "529e020a-3df3-4b3b-95b2-84ad0de01521",
+        "all_answer_spans": [
+          "under the age of 18"
+        ],
+        "answer_types": [
+          "span"
+        ]
+      }
+    },
+    {
+      "input": "Rookie cornerback Jason Verrett intercepted Oakland Raiders rookie quarterback Derek Carr at the San Diego 5 with 1:13 remaining in the game to seal a 31-28 Chargers win on the road. San Diego had gone ahead with 1:56 to play on a 1-yard touchdown run by Oliver. Verrett's first career interception helped the Chargers extend their winning streak to five, while Oakland suffered its 11th straight defeat. The Chargers 5-1 start to begin the season was their best since 2002. Carr threw a 77-yard TD pass to Andre Holmes in the opening minute of the game, and he and Rivers both threw two touchdowns in the first half for a 14-14 tie at halftime. In the third quarter, a 54-yard Novak field goal was nullified by a Chargers holding penalty. On fourth-and-35, Weddle threw an incomplete pass on a fake punt, giving the Raiders excellent field position; Oakland then scored on a 47-yard TD pass from Carr to Brice Butler. The Chargers responded with a Gates score on a 1-yard pass from Rivers, and the game was tied at 21 to begin the fourth quarter. Oakland took the lead again after Carr found Holmes for a 6-yard TD with 10 minutes left. On the following possession, Rivers completed the first four passes for 70 yards, which led to a 30-yard field goal by Novak. The Chargers defense forced a three-and-out, when Allen&#8212;filling in for an injured Royal&#8212;returned the punt 29 yards to the Oakland 39. With 4:49 remaining, Rivers led the six-play game-winning TD drive which culminated with four straight runs by Oliver for 29 yards. The Raiders had the ball on the Chargers 45 on second-and-one, when Carr threw deep for Butler, but Verrett leaped for an acrobatic sideline interception. Verrett had left the game earlier in the third quarter after tearing his left labrum in three places while diving for a pass. Oliver ran for 101 yards in the game, and Rivers threw for 313 yards and three touchdowns. For Rivers, it was an NFL-record fifth straight game with at least a 120 passer rating. Verrett grew up a Raiders fan in nearby Fairfield, California. About 100 of his friends and family attended the game, including his brother, who works for the Raiders. How long was the longest touchdown pass?",
+      "output": "77-yard TD pass",
+      "metadata": {
+        "section_id": "nfl_2843",
+        "query_id": "9dc2bb92-c4e9-4f94-9f84-aa2efa675203",
+        "all_answer_spans": [
+          "77-yard TD pass"
+        ],
+        "answer_types": [
+          "span"
+        ]
+      }
+    },
+    {
+      "input": "Coming off their bye week the Titans flew to Sun Life Stadium for an AFC duel with the Dolphins. In the first quarter the Titans trailed early as RB Ronnie Brown got a 2-yard TD run. They replied with RB Chris Johnson getting a 17-yard TD run. They took the lead after kicker Rob Bironas nailed a 40-yard field goal. They fell behind after kicker Dan Carpenter made a 23 and a 26-yard field goal, which was soon followed by QB Chad Henne completing a 13-yard TD pass to RB Patrick Cobbs. The Titans replied with QB Vince Young completing a 14-yard TD pass to WR Nate Washington, but fell further behind after Carpenter got a 42-yard field goal, followed by QB Tyler Thigpen making a 9-yard TD pass to TE Anthony Fasano (With a failed 2-point conversion). Then DB Reshad Jones tackled in the end zone for a Dolphins safety. How many field goals did Bironas kick?",
+      "output": "1",
+      "metadata": {
+        "section_id": "nfl_2127",
+        "query_id": "3dea3950-848d-4ae4-94e2-735eacaecdcc",
+        "all_answer_spans": [
+          "1"
+        ],
+        "answer_types": [
+          "number"
+        ]
+      }
+    },
+    {
+      "input": "In England, in the absence of census figures, historians propose a range of preincident population figures from as high as 7 million to as low as 4 million in 1300, and a postincident population figure as low as 2 million. By the end of 1350, the Black Death subsided, but it never really died out in England. Over the next few hundred years, further outbreaks occurred in 1361–1362, 1369, 1379–1383, 1389–1393, and throughout the first half of the 15th century. An outbreak in 1471 took as much as 10–15% of the population, while the death rate of the plague of 1479–1480 could have been as high as 20%. The most general outbreaks in Tudor dynasty and House of Stuart England seem to have begun in 1498, 1535, 1543, 1563, 1589, 1603, 1625, and 1636, and ended with the Great Plague of London in 1665. How many years did the general outbreaks in the Tudor dynasty and House of Stuart England last?",
+      "output": "167",
+      "metadata": {
+        "section_id": "history_1979",
+        "query_id": "9639f4c2-5055-4f7b-bec6-8c84769f6673",
+        "all_answer_spans": [
+          "167"
+        ],
+        "answer_types": [
+          "number"
+        ]
+      }
+    },
+    {
+      "input": "In late 1920, the Persian Soviet Socialist Republic in Rasht was preparing to march on Tehran with \"a guerrilla force of 1,500 Jangalis, Kurds, Armenians and Azerbaijanis\", reinforced by the Bolsheviks' Red Army. This fact, along with various other disorders, mutinies and unrest in the country created \"an acute political crisis in the capital.\" By 1921, the ruling Qajar dynasty of Persia had become corrupt and inefficient. The oil-rich nation was somewhat reliant on the nations of Britain and Russia for military and economic support. Civil wars earlier in the decade had threatened the government, and the only regular military force at the time was the Cossack Brigade. The Qajar shah in 1921 was Ahmad, who had been crowned at the age of eleven. He was considered to be a weak, incompetent ruler, especially after British, Russian and Ottoman occupations of Persia during World War I. In 1911, when the capital city, Tehran, had been seized by the Russians, armed Bakhtiaris tribemen, rather than Iranian regular troops, expelled the invaders. This further diminished the government's reputation, rendering it almost powerless in time of war. Britain, which played a major role in Persia, was dismayed by the Qajar government's inability to rule efficiently. This inefficiency was the background of a power struggle between Britain and Russia, each nation hoping to control Persia. On 14 January 1921, the British General Ironside chose to promote Reza Khan, who had been leading the Tabriz battalion, to lead the entire brigade. About a month later, under British direction, Reza Khan's 3,000-4,000 strong detachment of the Cossack Brigade reached Tehran. How many countries occupied Persia during World War I?",
+      "output": "3",
+      "metadata": {
+        "section_id": "history_44",
+        "query_id": "134a8c53-361a-47e6-a928-a0de1b4eb936",
+        "all_answer_spans": [
+          "3"
+        ],
+        "answer_types": [
+          "number"
+        ]
+      }
+    },
+    {
+      "input": "As of the census of 2010, there were 47,723 people, 17,816 households, and 11,722 families residing in the city. The population density was 1,754.6/sq mi (677.5/km²).  There were 19,806 housing units at an average density of 749.9 per square mile (289.6/km²).  The racial makeup of the city was 38.32% White (U.S. Census), 57.25% African American (U.S. Census), 1.25% Native American (U.S. Census), 1.85% Asian, 0.14% Pacific Islander (U.S. Census), 1.03% from Race (United States Census), and 1.09% from two or more races.  6.98% of the population were Hispanics in the United States or Latino (U.S. Census) of any race. Which group from the census is larger: White or African American?",
+      "output": "African American",
+      "metadata": {
+        "section_id": "history_1970",
+        "query_id": "ed7ee21b-1ff0-476e-b3f8-2e8739ce95eb",
+        "all_answer_spans": [
+          "African American"
+        ],
+        "answer_types": [
+          "span"
+        ]
+      }
+    },
+    {
+      "input": "Coming off of a win at Arrowhead that gave Kansas City their first win of the season, they headed to San Diego to take on the Chargers and their new head coach, Norv Turner.  Much like their previous game, the Chiefs began with a weak showing offensively before getting a lot of use out of their rookie wide receiver Dwayne Bowe, and a touchdown catch by Tony Gonzalez (his record-tying 62nd).  The TD by Gonzalez tied him with Shannon Sharpe for the most touchdown receptions by a tight end.  After another TD catch by Bowe, cornerback Tyron Brackenridge ran back a fumble by San Diego to effectively win the game for Kansas City. Late into the fourth quarter, fans at Qualcomm Stadium voiced their displeasure with Turner by chanting \"Marty! Marty! Marty!\" in reference to former coach Marty Schottenheimer who was fired by the Chargers after their 2006 season. The win put the Chiefs 2-2 and tied them with the Denver Broncos and Oakland Raiders for first place in the AFC West. The win was also the 50th win in Herman Edwards' coaching career. Larry Johnson finally managed to get his first 100-yard game of the year with 123&#160;yards on 25 carries. How many touchdown receptions did Sharpe have?",
+      "output": "62",
+      "metadata": {
+        "section_id": "nfl_645",
+        "query_id": "0b0d6b69-93c1-4b07-b0fb-b0a029fd6edb",
+        "all_answer_spans": [
+          "62"
+        ],
+        "answer_types": [
+          "number"
+        ]
+      }
+    },
+    {
+      "input": "Coming off their divisional road win over the Chiefs, the Raiders went home for a Week 3 AFC West duel with the Denver Broncos.  Oakland would trail in the first quarter as Broncos quarterback Kyle Orton completed a 2-yard touchdown pass to wide receiver Brandon Marshall, followed by kicker Matt Prater's 48-yard field goal.  The Raiders would get on the board in the second quarter as kicker Sebastian Janikowski made a 48-yard field goal, yet Denver answered with Prater's 21-yard field goal.  From here on out, the Broncos were in control as running back Knowshon Moreno got a 7-yard touchdown run in the third quarter and Prater nailed a 24-yard field goal in the fourth quarter. Which player scored more field goals, Matt Prater or Sebastian Janikowski?",
+      "output": "Matt Prater",
+      "metadata": {
+        "section_id": "nfl_1578",
+        "query_id": "10f4e41c-6e48-4cc8-a3a0-ce729e38147e",
+        "all_answer_spans": [
+          "Matt Prater"
+        ],
+        "answer_types": [
+          "span"
+        ]
+      }
+    },
+    {
+      "input": "On 10 December 1916, his twenty-fifth birthday, Alexander became second-in-command (2-i-c) of the 1st Battalion, Irish Guards as an acting major. By May, he was briefly acting CO of the 1st Battalion, as an acting Lieutenant colonel (United Kingdom), while still only a substantive captain. He became a permanent major on 1 August 1917 and was again promoted acting lieutenant colonel, this time confirmed as CO of the 2nd Battalion, Irish Guards, on 15 October. Alexander commanded his battalion at Battle of Passchendaele, where he was slightly wounded, then at Bourlon Wood (part of the Battle of Cambrai (1917)), where his battalion suffered 320 casualties out of 400 men. Alexander, between 23 and 30 March 1918, had to assume command of the 4th Guards Brigade (United Kingdom), during the British retreat from the German Army (German Empire)s Spring Offensive. He once again commanded the 2nd Battalion, Irish Guards at Hazebrouck in April 1918, where it took such severe casualties that it saw no further action. Still an acting lieutenant colonel, he then commanded a corps infantry school in October 1918, a month before the war ended on Armistice of 11 November 1918. How many of Alexander's men escaped injury at Bourlon Wood?",
+      "output": "80",
+      "metadata": {
+        "section_id": "history_2914",
+        "query_id": "257b4a23-9f95-4465-bea0-ad0d43711f82",
+        "all_answer_spans": [
+          "80"
+        ],
+        "answer_types": [
+          "number"
+        ]
+      }
+    },
+    {
+      "input": "When in 1648 the Peace of Westphalia ended the Thirty Years' War, the parties agreed that the prince-bishoprics of Bremen and Verden were to become dominions of Sweden. The peace treaty had been prepared at a congress throughout the final years of the war. During the negotiations, several mostly Hanseatic cities requested that they become Imperial cities, with only Bremen being successful: Ferdinand III, Holy Roman Emperor accepted Bremen as a Free imperial city in 1646. A respective document was signed in Linz on 1 June, with the aim of preventing Sweden from gaining the city. In turn Bremen, among other concessions, paid about 100.000 talers. Owing to Swedish diplomatic efforts however, the text of the 1648 treaty did not determine whether or not Bremen was to be included in the future Swedish dominion. The Prince-Archbishopric of Bremen, northerly and easterly neighbouring the city's territory, had been occupied by Sweden since 1646/47. Swedish forces had then expelled the forces of Prince-Archbishop Frederick II, Prince of Denmark, officiating from 1637 to 1648. On 18 February 1647, the emperor accepted Sweden's annexation of the prince-archbishopric's territory as a secularized duchy. After the war a dispute about custom collection between Bremen and the emperor led to the latter imposing an Imperial ban on the city in 1652/53. Sweden, which had never accepted Bremen's Imperial immediacy, attacked in 1654. How many of the Hanseatic cities successful became Imperial cities?",
+      "output": "1",
+      "metadata": {
+        "section_id": "history_1481",
+        "query_id": "ed8a36c3-6005-4c69-a56c-b990ae9d83aa",
+        "all_answer_spans": [
+          "1"
+        ],
+        "answer_types": [
+          "number"
+        ]
+      }
+    },
+    {
+      "input": "Frederick had been King of Jerusalem—and as such claimed suzerainty over Cyprus—in right of his wife Isabella II until her death in 1228. That year he arrived first in Cyprus, where he antagonised the nobles, and then in Jerusalem, where he stayed until 1229, leaving in humiliating circumstances after having produced an anti-imperialist reaction in the people. In 1231 he sent Riccardo Filangieri as his marshal. His attempt to assert his authority was opposed by John of Ibelin, the Old Lord of Beirut, who had been regent until Frederick's arrival. On John's death in 1236 the war was taken up by his son Balian. In 1239 Philip of Montfort assumed the leadership of the opposition. Though the ecclesiastical hierarchy and the Knights Templar supported the nobility, the Teutonic Knights and Knights Hospitaller supported Filangieri. In general his rights as regent were recognised but his practical power was denied on the basis of the Assizes and the Haute Cour. His headquarters were in Tyre and he had the allegiance of Bohemond V, Prince of Antioch and Count of Tripoli. He also held the Holy City of Jerusalem itself, which had been negotiated away from the Saracens by Frederick. So long as the Ibelins controlled the opposition, Filangieri could count on the support of their enemies as well. The Italian cities were also divided between the two factions: Pisa supported Filangieri and Genoa the Ibelins. The Ibelins controlled Beirut, Arsuf, and Caesarea as well as the old capital of Acre. In 1231 the citizens of Acre formed a commune with their headquarters at the church of Saint Andrew's in order to unify their opposition to Filangieri. In 1232 John of Ibelin was elected its mayor. How many years after Isabella II died did Frederick leave Jerusalem after he produced an anti-imperialist reaction in the people?",
+      "output": "1",
+      "metadata": {
+        "section_id": "history_1616",
+        "query_id": "4ae32bda-d82f-496c-9ef0-a4c165d0a8e7",
+        "all_answer_spans": [
+          "1"
+        ],
+        "answer_types": [
+          "number"
+        ]
+      }
+    },
+    {
+      "input": "Hoping to rebound from their Week 3 road loss to the Raiders, the Jets flew to M&T Bank Stadium for a Week 4 Sunday night battle with the Baltimore Ravens.  New York trailed early in the first quarter with Ravens linebacker Jameel McClain returning a fumble 6 yards for a touchdown. The Jets would respond with running back Joe McKnight returning a kickoff 107 yards for a touchdown. Baltimore would regain the lead with kicker Billy Cundiff getting a 38-yard field goal, followed by running back Ray Rice getting a 3-yard touchdown run. The Ravens added onto their lead in the second quarter with Cundiff making another 38-yard field goal, followed by linebacker Jarret Johnson returning a fumble 26 yards for a touchdown. New York responded with linebacker David Harris returning an interception 36 yards for a touchdown, followed by a 40-yard field goal from kicker Nick Folk. Baltimore came right back in the third quarter with cornerback Lardarius Webb returning an interception 73 yards for a touchdown. From there, the Ravens' defense prevented any comeback attempt. What team scored the last touchdown of the game?",
+      "output": "Ravens",
+      "metadata": {
+        "section_id": "nfl_2278",
+        "query_id": "623b49fa-0ef8-41d6-b9d8-fc934fbc8e3a",
+        "all_answer_spans": [
+          "Ravens"
+        ],
+        "answer_types": [
+          "span"
+        ]
+      }
+    },
+    {
+      "input": "As of the census of 2008, there were 14,957 people. In 2000 there were an estimated 5,205 households and 3,659 families residing in the county. The population density was 20 people per square mile (8/km²).  There were 7,362 housing units at an average density of 10 per square mile (4/km²). The racial makeup of the county was 88.80% Race (United States Census), 8.98% Race (United States Census) or Race (United States Census), 0.46% Race (United States Census), 0.25% Race (United States Census), 0.03% Race (United States Census), 0.45% from Race (United States Census), and 1.03% from two or more races. 1.80% of the population were Race (United States Census) or Race (United States Census) of any race.  In terms of ancestry, 39.7% were English people, 15.2% were Irish people, 14.7% were Americans, and 5.2% were Germans. Which group in the county from the census is smaller: English or Irish?",
+      "output": "Irish",
+      "metadata": {
+        "section_id": "history_1922",
+        "query_id": "41ec62d4-debf-42e1-bde7-5f458009ad3e",
+        "all_answer_spans": [
+          "Irish"
+        ],
+        "answer_types": [
+          "span"
+        ]
+      }
+    },
+    {
+      "input": "Due to a conflict involving the Orioles' schedule, the Ravens opened the regular season on the road against the Broncos in what would be the first time a defending Super Bowl champion team has done so since the Buccaneers in 2003 when they opened their regular season against the Eagles.  This would be a rematch of last year's AFC Divisional game. The Ravens drew first blood when Joe Flacco found Vonta Leach on a 2-yard touchdown pass to take the lead 7-0 in the first quarter for the only score of the period.  The Broncos would tie the game in the 2nd quarter with Peyton Manning finding Julius Thomas on a 24-yard pass to take the game to 7-7.  The Ravens moved back into the lead when Ray Rice ran for a 1-yard touchdown to make the score 14-7.  Peyton would find Julius again on a 23-yard pass to make the score 14-14 for another tie before the Ravens kicker Justin Tucker nailed a 25-yard field goal to make the score 17-14 at halftime.  In the 3rd quarter, the Broncos went right back to work as Peyton found Andre Caldwell on a 28-yard touchdown pass to take a 21-17 lead followed up with finding Wes Welker on 2 consecutive passes from 5 yards and 2 yards out for an increase in the lead first to 28-17 and then to 35-17.  Later on in the quarter, Peyton would find Demaryius Thomas on a 26-yard pass to increase the lead to 42-17.  The Ravens tried to rally a comeback in the last quarter, with Flacco finding Marlon Brown on a 13-yard pass to shorten the Broncos' lead 42-24 followed up by Tucker's 30-yard field goal to make the score 42-27.  However, the Broncos wrapped things up in the game when Peyton found D. Thomas again on a 78-yard pass to make the final score 49-27.  The Ravens began their season 0-1 for the first time under John Harbaugh as head coach and Joe Flacco as their starter.  They also lost their first regular season opening game since 2007 as well as becoming the 2nd straight defending Super Bowl champion team to lose their season opener. How many touchdowns did Manning throw?",
+      "output": "7",
+      "metadata": {
+        "section_id": "nfl_2526",
+        "query_id": "e8ec340d-9711-497e-b0df-a9e6ad1b723a",
+        "all_answer_spans": [
+          "7"
+        ],
+        "answer_types": [
+          "number"
+        ]
+      }
+    },
+    {
+      "input": "As of the 2010 United States Census, there were 30,104 people, 11,652 households, and 7,806 families residing in the county. The population density was . There were 13,080 housing units at an average density of . The racial makeup of the county was 95.1% white, 3.2% black or African American, 0.4% Asian, 0.2% American Indian, 0.5% from other races, and 0.7% from two or more races. Those of Hispanic or Latino origin made up 1.5% of the population. In terms of ancestry, 27.8% were Germans, 11.2% were Irish people, 10.1% were English people, and 9.8% were Americans. What were the two smallest ancestries?",
+      "output": "Americans",
+      "metadata": {
+        "section_id": "history_1882",
+        "query_id": "6112a637-5898-41b2-b8bd-9c9a95038672",
+        "all_answer_spans": [
+          "Americans",
+          "English"
+        ],
+        "answer_types": [
+          "span",
+          "span"
+        ]
+      }
+    },
+    {
+      "input": "The Rams' fourth game was played at home in an NFC west rivalry match against the  Seattle Seahawks. In the first quarter the Rams took the early lead as QB Sam Bradford completed a 15-yard TD pass to WR Brandon Gibson. The Seahawks cut the lead with kicker Olindo Mare nailing a 22-yard field goal, but the Rams increased their lead when kicker Josh Brown made a 30-yard field goal, followed in the 3rd quarter by Bradford completing a 21-yard TD pass to RB Kenneth Darby. Then Josh Brown made a 31-yard field goal. With the victory, the Rams improved to 2-2, thus successfully improving on their previous season. The win also snapped a 10-game regular season losing streak to the Seahawks. Which players caught touchdown passes of at least 15 yards?",
+      "output": "Brandon Gibson",
+      "metadata": {
+        "section_id": "nfl_2094",
+        "query_id": "235fed63-de97-4665-a120-45373faee2ea",
+        "all_answer_spans": [
+          "Brandon Gibson",
+          "Kenneth Darby"
+        ],
+        "answer_types": [
+          "span",
+          "span"
+        ]
+      }
+    },
+    {
+      "input": "On 16 December 1944, Germany made a last attempt on the Western Front by using most of its remaining reserves to launch a massive counter-offensive in the Ardennes and along the French-German border to split the Western Allies, encircle large portions of Western Allied troops and capture their primary supply port at Antwerp to prompt a political settlement. By January, the offensive had been repulsed with no strategic objectives fulfilled. In Italy, the Western Allies remained stalemated at the German defensive line. In mid-January 1945, the Soviets and Poles attacked in Poland, pushing from the Vistula to the Oder river in Germany, and overran East Prussia. On 4 February, Soviet, British and US leaders met for the Yalta Conference. They agreed on the occupation of post-war Germany, and on when the Soviet Union would join the war against Japan. In February, the Soviets entered Silesia and Pomerania, while Western Allies entered western Germany and closed to the Rhine river. By March, the Western Allies crossed the Rhine north and south of the Ruhr, encircling the German Army Group B, while the Soviets advanced to Vienna. In early April, the Western Allies finally pushed forward in Italy and swept across western Germany capturing Hamburg and Nuremberg, while Soviet and Polish forces stormed Berlin in late April. American and Soviet forces met at the Elbe river on 25 April. On 30 April 1945, the Reichstag was captured, signalling the military defeat of Nazi Germany. Several changes in leadership occurred during this period. On 12 April, President Roosevelt died and was succeeded by Harry S. Truman. Benito Mussolini was killed by Italian partisans on 28 April. Two days later, Hitler committed suicide, and was succeeded by Grand Admiral Karl Dönitz. Who died first, Mussolini or Hitler?",
+      "output": "Mussolini",
+      "metadata": {
+        "section_id": "history_1375",
+        "query_id": "186585fd-9a7c-46d4-8e24-03912de2061c",
+        "all_answer_spans": [
+          "Mussolini"
+        ],
+        "answer_types": [
+          "span"
+        ]
+      }
+    },
+    {
+      "input": "The surrender of Candia ended the four and a half centuries of Venetian rule in Crete, and brought the Ottoman Empire to its temporary territorial zenith. At the same time, the cost and casualties incurred during this prolonged war contributed greatly to the decline of the Ottoman state during the latter 17th century. On the other hand, Venice had lost its greatest and most prosperous colony, its pre-eminent trading position in the Mediterranean had diminished, and its treasury was exhausted, having spent some 4,253,000 ducats on the defense of Candia alone. To all this, the Dalmatian gains were insufficient compensation. Upon his return to Venice in 1670, Morosini was tried on charges of insubordination and treason, but was acquitted. Fifteen years later, he would lead the Venetian forces in the Morean War, where the Republic attempted, for the last time, to reverse its losses and reestablish itself as one of the major powers of the Eastern Mediterranean. During that war, in 1692, a Venetian fleet attempted to retake Candia, but failed. The last Venetian strongholds off Crete fell in the last Turkish-Venetian War in 1715. Crete would remain under Ottoman control until 1897, when it became an autonomous state. The island continued under nominal Ottoman suzerainty until the Balkan Wars. In their aftermath, the Ottoman Sultan dropped any claim on the island, and on 1 December 1913 it was formally united to Greece. Following the fall of Candia, fears rose that the Ottomans would attack Malta. In 1670, the Order of St. John began to improve the island's defences with the construction of the Cottonera Lines and Fort Ricasoli. How many years after the start of the Morean War did a Venetian fleet fail to retake Candia?",
+      "output": "7",
+      "metadata": {
+        "section_id": "history_363",
+        "query_id": "79269b95-5cbc-467b-882f-e62c17e56a90",
+        "all_answer_spans": [
+          "7"
+        ],
+        "answer_types": [
+          "number"
+        ]
+      }
+    },
+    {
+      "input": "The Falcons returned home to take on the Cowboys. The Cowboys drew first blood with their 23-yard field goal from Dan Bailey to take a 3-0 lead. With this field goal, the Falcons' trend then simmered to 4 out of their last 5 games trailing a team. The Cowboys then put up another Bailey field goal from 32 yards out to make the lead 6-0. The Falcons responded in the second quarter with field goals from Matt Bryant from 45 and 46 yards out to tie the game at halftime at 6-6. After a scoreless third quarter, the Falcons took the lead in the fourth quarter with Michael Turner running for a 3-yard touchdown. Then they increased their lead with Bryant's 36-yard field goal for a 16-6 lead. The Boys tried to rally as Tony Romo found Kevin Ogletree on a 21-yard touchdown pass to cut the lead to 16-13, but the Falcons increased their lead with Bryant's 32-yard field goal, making the Cowboys have to score a touchdown. They couldn't and the Falcons won 19-13. With the win, the Falcons improved to 8-0 for the first time in franchise history. Also they went 3-0 against the NFC East. Which player kicked a field in the fourth quarter?",
+      "output": "Matt Bryant",
+      "metadata": {
+        "section_id": "nfl_2319",
+        "query_id": "a02f4129-0d50-47d6-87b7-b8125a401bde",
+        "all_answer_spans": [
+          "Matt Bryant"
+        ],
+        "answer_types": [
+          "span"
+        ]
+      }
+    },
+    {
+      "input": "Tampa Bay took on the New Orleans Saints for the second time this season, this time at the Superdome.  Luke McCown started at quarterback for the Buccaneers in place of the injured Jeff Garcia. McCown passed for 313 yards, and connected on his first 15 consecutive passes of the game. The Buccaneers scored the first points of the game with Matt Bryant's 27-yard field goal. New Orleans answered with WR Terrance Copper catching a 4-yard touchdown pass from Drew Brees. Late in the first quarter, McCown connected with WR Joey Galloway for a 60-yard catch which set Tampa Bay up on 1-yard line. Tampa Bay retook the lead early in the second quarter with TE Anthony Becht catching a 1-yard TD, and Matt Bryant making another field goal to increase the Tampa Bay lead to 13-7. New Orleans scored a touchdown just before halftime, a 45-yard pass to WR Devery Henderson, to make it 13-14 at halftime. In the second half, RB Earnest Graham scored a 25-yard touchdown run.  New Orleans had to punt on their ensuing possession, but disaster struck with 3 minutes remaining in the third quarter as miscommunication between McCown and Galloway led to a Saints interception which was returned for a touchdown. Leading 21-20 with 4 minutes remaining in the game, Saints punter Steve Weatherford made a successful coffin corner punt which pinned the Buccaneers at their own 2-yard line. Two plays later, Delaware Will Smith sacked McCown for a safety. After the safety kick, New Orleans looked to run the clock out and seal the victory. However, in an unexpected and perhaps season-altering mistake, Reggie Bush fumbled a double reverse intended for WR Devery Henderson and Jovan Haye recovered for Tampa Bay at the New Orleans 37-yard line. Three plays later, the Buccaneers found themselves in a predicament as they faced a fourth down and 1 at the New Orleans 28. Instead of attempting a game-tying field goal, however, coach Jon Gruden went for it on fourth down, calling a run around right tackle which Graham converted for a first down. Three plays later, McCown found TE Jerramy Stevens for a 4-yard touchdown to win the game. With the win, Tampa Bay improved to 8-4 and maintained a perfect division record. Tampa Bay only needed to win one game in the final four weeks to clinch the NFC South division crown. Who caught the longest pass of the first half?",
+      "output": "Joey Galloway",
+      "metadata": {
+        "section_id": "nfl_863",
+        "query_id": "953e99ad-6ed5-4e6b-b8ce-c8ecf98648bd",
+        "all_answer_spans": [
+          "Joey Galloway"
+        ],
+        "answer_types": [
+          "span"
+        ]
+      }
+    },
+    {
+      "input": "Economic crisis occurred after the Swedish war of liberation because of the trade monopoly the king had granted the Hanseatic Lübeck in exchange for their support in recapturing the capital during the war. The discontent was used by two Catholic priests, former Bishop Peder Jakobsson of Västerås, a follower of Sten Sture the Younger, and Knut Mickelsson, who opposed the inclinations of Lutheranism which the king had displayed as early as 1524, who stirred up the emotions against the king and for the Sture family in the province.In the spring of 1525, the Dalecarlians held a meeting and wrote a letter in which they complained of the foreign bailiffs and the imprisonment of Sten Sture's widow Christina Gyllenstierna, and stated that they would renounce their fealty unless their demands were met. They reportedly contacted Søren Norby, who offered Christina marriage. The king managed to subdue the discontent by promising to meet their demands in May 1525, and the leaders fled to Norway. They were extradited in 1526, and executed through Breaking wheel in February 1527. What all Catholic priests used the discontent?",
+      "output": "Peder Jakobsson",
+      "metadata": {
+        "section_id": "history_400",
+        "query_id": "c44fa694-ebf3-4753-9aef-7ee1ad4936a0",
+        "all_answer_spans": [
+          "Peder Jakobsson",
+          "Knut Mickelsson"
+        ],
+        "answer_types": [
+          "span",
+          "span"
+        ]
+      }
+    },
+    {
+      "input": "After the loss to the Bengals, the Pittsburgh Steelers journeyed to Arrowhead Stadium for a match with the Chiefs. At the start of the first quarter Chiefs RB Jamaal Charles returned a kickoff from their own 3-yard line to the Steelers' endzone for a touchdown. In the second quarter Pittsburgh rallied as PK Jeff Reed made a 36-yard field goal, then QB Ben Roethlisberger made an 8-yard touchdown pass to WR Hines Ward, and then Roethlisberger passed to TE Heath Miller 10&#160;yards for a touchdown. In the third quarter the Chiefs tied the game when QB Matt Cassel made a 21-yard touchdown pass to TE Leonard Pope, and then kicker Ryan Succop made a 22-yard field goal. In the fourth quarter Pittsburgh took the lead as QB Ben Roethlisberger made an 8-yard touchdown pass to RB Rashard Mendenhall, until the Chiefs came back to tie the game as QB Matt Cassel made a two-yard touchdown pass to Jamaal Charles to put the game in overtime. Afterwards, it was Kansas City that took the win when kicker Ryan Succop made a 22-yard field goal. Which players did Roethlisberger complete touchdown passes to?",
+      "output": "Heath Miller",
+      "metadata": {
+        "section_id": "nfl_1610",
+        "query_id": "5af9ec7f-5d70-4f23-9f19-00d91493cf24",
+        "all_answer_spans": [
+          "Heath Miller",
+          "Hines Ward",
+          "Rashard Mendenhall"
+        ],
+        "answer_types": [
+          "span",
+          "span",
+          "span"
+        ]
+      }
+    },
+    {
+      "input": "The Finnish Red Guards seized the early initiative in the war by taking control of Helsinki on 28 January 1918 and by undertaking a general offensive lasting from February till early March 1918. The Reds were relatively well armed, but a chronic shortage of skilled leaders, both at the command level and in the field, left them unable to capitalise on this momentum, and most of the offensives came to nothing. The military chain of command functioned relatively well at company and platoon level, but leadership and authority remained weak as most of the field commanders were chosen by the vote of the troops. The common troops were more or less armed civilians, whose military training, discipline and combat morale were both inadequate and low. Ali Aaltonen was replaced on 28 January 1918 by Eero Haapalainen as commander-in-chief. He, in turn, was displaced by the Bolshevik triumvirate of Eino Rahja, Adolf Taimi and Evert Eloranta on 20 March. The last commander-in-chief of the Red Guard was Kullervo Manner, from 10 April until the last period of the war when the Reds no longer had a named leader. Some talented local commanders, such as Hugo Salmela in the Battle of Tampere, provided successful leadership, but could not change the course of the war. The Reds achieved some local victories as they retreated from southern Finland toward Russia, such as against German troops in the Battle of Syrjäntaka on 28-29 April in Tuulos. Who was commander first, Eero Haapalainen or Ali Aaltonen?",
+      "output": "Ali Aaltonen",
+      "metadata": {
+        "section_id": "history_537",
+        "query_id": "0b685acb-49a3-40e3-8895-cd999b7cf2e8",
+        "all_answer_spans": [
+          "Ali Aaltonen"
+        ],
+        "answer_types": [
+          "span"
+        ]
+      }
+    },
+    {
+      "input": "Coming off their road win over the Cardinals, the Steelers went home for a Week 8 duel with the New England Patriots.  Pittsburgh delivered the game's opening punch in the first quarter as quarterback Ben Roethlisberger found running back Mewelde Moore on a 5-yard touchdown pass.  The Steelers would add onto their lead in the second quarter with a 33-yard field goal from kicker Shaun Suisham.  The Patriots answered with quarterback Tom Brady completing a 2-yard touchdown pass to wide receiver Deion Branch, yet Pittsburgh struck back with Roethlisberger connecting with wide receiver Antonio Brown on a 7-yard touchdown pass.  New England would close out the half with kicker Stephen Gostkowski got a 46-yard field goal. The Steelers began the third quarter with a 21-yard field goal from Suisham, followed by his 23-yard field goal in the fourth.  The Patriots tried to rally as Brady completed a 1-yard touchdown pass to tight end Aaron Hernandez, yet Pittsburgh's defense held with safety Troy Polamalu forcing a New England fumble out of the back of the end zone for a safety. With the win, the Steelers improved to 6-2 and also won their first game against the Patriots since 2008 and first game against the Patriots with Tom Brady as the starter since 2004. How many field goals did Shaun Suisham kick from less than 30 yards?",
+      "output": "2",
+      "metadata": {
+        "section_id": "nfl_2289",
+        "query_id": "1412c449-aa59-4e1b-a7fc-e432dbf6badf",
+        "all_answer_spans": [
+          "2"
+        ],
+        "answer_types": [
+          "number"
+        ]
+      }
+    },
+    {
+      "input": "After a win over the Bengals, the Browns stayed home for a Thursday Night duel against the Bills.  The Bills scored first when Fred Jackson ran for a 1-yard touchdown for a 7-0 lead followed up by Dan Carpenter nailing a 52-yard field goal increasing their lead to 10-0.  In the second quarter, it was all Browns as Billy Cundiff kicked a 33-yard field goal for a 10-3 game.  They eventually tied the game up and moved into the lead when Willis McGahee ran for a 1-yard touchdown for a 10-10 game followed up by Travis Benjamein returning a punt 79 yards for a touchdown for a halftime score of 17-10.  In the third quarter, the Bills tied it up and took the lead back when C.J. Spiller ran for a 54-yard touchdown for a 17-17 game followed up by McGahee running for another 1-yard touchdown for a 24-17 lead.  The Browns however later on in the quarter, tied it back up as Brandon Weeden hooked up with Josh Gordon for a 37-yard pass for a 24-24 game.  In the fourth quarter, it was all Browns as Cundiff made field goals from 24 and 44 yards out for leads of 27-24 and 30-24 before sealing the game when T.J. Ward returned an interception 44 yards for a touchdown and for the final score of 37-24. How many points were scored in the second half of the game?",
+      "output": "34",
+      "metadata": {
+        "section_id": "nfl_2557",
+        "query_id": "d6f582e6-2f2a-4e99-a6b4-b0b7c550f85d",
+        "all_answer_spans": [
+          "34"
+        ],
+        "answer_types": [
+          "number"
+        ]
+      }
+    },
+    {
+      "input": "The Browns traveled to Indianapolis to take on an Andrew Luck-led Colts offense. The Colts were able to score in the first quarter as Andrew Luck ran for a 3-yard touchdown making the score 7-0 for the only score of the game. The Browns responded in the 2nd quarter coming within a point when Brandon Weeden found Greg Little on a 14-yard pass (with a failed PAT) making the score 7-6. Then, Luck ran for another touchdown this time from 5 yards out to make the score 14-6 at halftime. The Browns came within a point again in the 3rd quarter as Weeden found Josh Gordon on a 33-yard pass making the score 14-13 but the Colts wrapped things up with Adam Vinatieri's 38-yard field goal followed by a scoreless 4th quarter making the final score 17-13 as the Browns' road record at this point of the season was 0-4 while their record overall was 1-6. Who scored the longest touchdown of the game?",
+      "output": "Josh Gordon",
+      "metadata": {
+        "section_id": "nfl_2356",
+        "query_id": "d7d0740a-1b5c-4c86-b2ab-b86c97b753bb",
+        "all_answer_spans": [
+          "Josh Gordon"
+        ],
+        "answer_types": [
+          "span"
+        ]
+      }
+    },
+    {
+      "input": "Following their impressive divisional home win over the Vikings, the Lions flew to Lincoln Financial Field for an intraconference fight with the throwback-clad Philadelphia Eagles. In the first quarter, Detroit trailed early as Eagles RB Brian Westbrook ran 25 yards for a TD.  The Lions tied the game on a Kevin Jones 2-yard TD run, but Philadelphia regained the lead with a Westbrook 5 yard TD run, along with QB Donovan McNabb's 68-yard TD pass to WR Kevin Curtis.  In the second quarter, the points bonanza continued as McNabb and Curtis hooked up with each other again on a 12-yard TD pass and a 43-yard TD pass to increase the Eagles' lead.  Detroit responded with QB Jon Kitna completing TD passes of 11 yards to WR Shaun McDonald and 91 yards to WR Roy Williams.  Philadelphia capped the half with McNabb completing a 43-yard TD pass to Westbrook. In the second half, the Eagles took control as RB Correll Buckhalter ran 1 yard for a TD run in the third quarter and RB Tony Hunt ran for a 1-yard TD in the fourth quarter. how many yards did mcnabb pass?",
+      "output": "68",
+      "metadata": {
+        "section_id": "nfl_583",
+        "query_id": "0c716017-20a0-4784-a261-9a3abf33b9b4",
+        "all_answer_spans": [
+          "68"
+        ],
+        "answer_types": [
+          "number"
+        ]
+      }
+    },
+    {
+      "input": "The war had three phases. Initially it was a localized feud between supporters of Gebhard and those of the Catholic core of the Cathedral Chapter. With the election of Ernst of Bavaria as a competing archbishop, what had been a local conflict expanded in scale: Ernst's election guaranteed the military, diplomatic, and financial interest of the Wittelsbach family in the Electorate of Cologne's local affairs. After the deaths of Louis VI, Elector Palatine in 1583 and William the Silent in 1584, the conflict shifted gears again, as the two evenly matched combatants sought outside assistance to break the stalemate. Finally, the intervention of Alexander Farnese, Duke of Parma, who had at his command the Spanish Army of Flanders, threw the balance of power in favor of the Catholic side. By 1588, Spanish forces had pushed Gebhard from the Electorate. In 1588 he took refuge in Strassburg, and the remaining Protestant strongholds of the Electorate fell to Parma's forces in 1589. Who died earlier, Louis VI or William the Silent?",
+      "output": "Louis VI",
+      "metadata": {
+        "section_id": "history_344",
+        "query_id": "b6e0c0c9-6bee-4ad2-ab7a-2841e601c31f",
+        "all_answer_spans": [
+          "Louis VI"
+        ],
+        "answer_types": [
+          "span"
+        ]
+      }
+    },
+    {
+      "input": "Playing again in front of the home crowd, the Colts faced a big test in their AFC South rivals, the Jacksonville Jaguars. Jacksonville scored first on a 4-yard touchdown run by QB Byron Leftwich. The Colts were not able to respond until early in the second quarter when WR/PR Terrence Wilkins returned a punt 82 yards for a touchdown. Indianapolis grabbed the lead for the first time in the game during the third quarter on QB Peyton Manning's 30-yard touchdown pass to TE Dallas Clark. In the fourth quarter, Manning increased Indianapolis' lead on an uncharacteristic two-yard touchdown run. That score put the Colts up 21-7. The Jaguars, though, would get to within a touchdown late in the game on Byron Leftwich's 7-yard TD pass to RB Maurice Jones-Drew. That score, however, proved to be the last of the game as Indianapolis hung on for the victory, and improved their record to 3-0. Quarterback Peyton Manning finished the game 14 of 31 with 219 passing yards for one touchdown pass, while Byron Leftwich finished 16 of 28 with 107 passing yards for one touchdown pass. Leftwich also threw two interceptions. RB Maurice Jones-Drew had 103 rushing yards for Jacksonville, and Marvin Harrison had 6 catches for 94 yards receiving. Jacksonville Kicker Josh Scobee missed both of his field goals, and they proved crucial in the game in the late stages. How many field goals did Josh Scobee miss?",
+      "output": "2",
+      "metadata": {
+        "section_id": "nfl_183",
+        "query_id": "22164a2d-1dc0-4876-86ec-32aedcee7a83",
+        "all_answer_spans": [
+          "2"
+        ],
+        "answer_types": [
+          "number"
+        ]
+      }
+    },
+    {
+      "input": "During the 2008/09 school year there were 1,502,257 students in the entire Swiss educational system. In kindergarten or pre-school, there were 152,919 students (48.6% female). These students were taught by 13,592 teachers (96.0% female) in 4,949 schools, of which 301 were private schools. There were 777,394 students (48.6% female) in the obligatory schools, which include primary and lower secondary schools. These students were taught by 74,501 teachers (66.3% female) in 6,083 schools, of which 614 were private. The upper secondary school system had 337,145 students (46.9% female). They were taught by 13,900 teachers (42.3% female) in 730 schools, of which 240 were private. The tertiary education system had 234,799 students (49.7% female). They were taught by 37,546 teachers (32.8% female) in 367 schools. How many teachers were in each school on average for the kindergarten or pre-school group?",
+      "output": "2.74",
+      "metadata": {
+        "section_id": "history_2316",
+        "query_id": "a6c32a69-2aa1-4191-b77d-7de10a8b6013",
+        "all_answer_spans": [
+          "2.74"
+        ],
+        "answer_types": [
+          "number"
+        ]
+      }
+    },
+    {
+      "input": "As of the census of 2010, there were 42,883 people, 16,119 households, and 10,872 families residing in the county.  The population density was 113 people per square mile (44/km²).  There were 17,347 housing units at an average density of 44 per square mile (17/km²).  The racial makeup of the county was 89.8% Race (United States Census), 5.9% Race (United States Census) or Race (United States Census), 0.6% Race (United States Census), 0.4% Race (United States Census), 0.0% Race (United States Census), 1.3% from Race (United States Census), and 1.9% from two or more races.  4.1% of the population were Race (United States Census) or Race (United States Census) of any race. According to Census 2000, 20.3% were of Germans, 18.3% English people, 10.8% Italian people, 10.3% Irish people, 9.4% United States and 7.3% Polish people ancestry and 96.0% spoke English language and 3.0% Spanish language as their first language. Which ancestral group is smaller: Irish or English?",
+      "output": "Irish",
+      "metadata": {
+        "section_id": "history_2174",
+        "query_id": "6e3354a8-8ebf-44aa-ada9-b43c0f43ddab",
+        "all_answer_spans": [
+          "Irish"
+        ],
+        "answer_types": [
+          "span"
+        ]
+      }
+    },
+    {
+      "input": "Italian troops captured Ghat in the south-west of the province in August 1914, which prompted an uprising and forced the Italians out of Ghat and Ghadames. The call to jihad had more effect among the Senussi than elsewhere and Ahmad began the jihad in Fezzan in southern Libya. The Italians re-captured Ghadames in February 1916 but the blockade on the Senussi had little military effect, since they were well stocked with captured Italian weapons; Italian garrisons in Cyrenaica were withdrawn to reinforce the west. Ottoman-German operations in Tripolitania were based at Misratah, where a submarine visited every couple of weeks to deliver arms and ammunition and in May 1917 a wireless station was built. Ottoman troops established about twenty posts on the coast and by 1918 had 20,000 regular troops, a similar number in training and another 40,000 untrained reservists. In September 1918, having been prevented from entering Tripolitania by the Ottoman forces, Sayed Ahmed boarded a German submarine at al-Aqaila and went into exile in Turkey. In Tripolitania, local troops under al-Shtaiwi and Ottoman regular soldiers under Nuri Bey and Suliman al-Baruni, resisted the Italians until the end of the war. Archaeological analysis of the salt pan of Kallaya, the site of a minor skirmish between Libyans on 14 November 1918, shows that they had Russian rifles captured by the Germans and Austro-Hungarians on the Eastern front and sent to Libya via the Ottomans. What event happened later, the italian troops capturing Ghat, or the Italians capturing Ghadames?",
+      "output": "he Italians re-captured Ghadames",
+      "metadata": {
+        "section_id": "history_1391",
+        "query_id": "08345b00-32ef-47fd-a822-6edf274a81e6",
+        "all_answer_spans": [
+          "he Italians re-captured Ghadames",
+          "in February 1916"
+        ],
+        "answer_types": [
+          "span",
+          "span"
+        ]
+      }
+    },
+    {
+      "input": "Blanche of Navarre, however, proved to be an incredibly strong and efficient regent, and had devoted herself for the past 15 years to ensuring the legal status of her son Theobald IV as rightful heir.  Blanche was aided in securing her powerbase during the first few shakey years of her regency by the fact that so many lords and knights of the county, who might have posed a challenge to her, had left to fight on the Fourth Crusade from 1202 to 1204.  Queen Mother Adèle of Champagne  also took Blanche under her wing, giving Blanche vital counsel during the early years of her regency until Adèle's death in 1206 . By 1216, despite the fact that Erard rallied most of the local barons of the county against Blanche, she had built up such strong alliances with both King Philip II as well as Pope Innocent III that Erard never gained any official legal support for his claims.  From the start of the conflict, Pope Innocent III began excommunicating rebel barons, negatively affecting their efforts.  Further, while Theobald IV was still an underaged youth of 13 years, he had acquitted himself so valiantly in combat at the decisive Battle of Bouvines that King Philip II threw his full support behind him . How many years after Adèle's death did Erard rally people against Blanche?",
+      "output": "10",
+      "metadata": {
+        "section_id": "history_1635",
+        "query_id": "8c7d7c6f-7338-43ee-be9b-2711402e1593",
+        "all_answer_spans": [
+          "10"
+        ],
+        "answer_types": [
+          "number"
+        ]
+      }
+    },
+    {
+      "input": "In the wake of the Freeman Field Mutiny, the 616th and 619th were disbanded and the returned 99th Fighter Squadron assigned to the 477th on 22 June 1945; it was re-designated the 477th Composite Group as a result. On 1 July 1945, Colonel Robert Selway was relieved of the Groups command; he was replaced by Colonel Benjamin O. Davis, Jr. A complete sweep of Selways white staff followed, with all vacated jobs filled by African-American officers. The war ended before the 477th Composite Group could get into action. The 618th Bombardment Squadron was disbanded on October 8, 1945. On 13 March 1946, the two-squadron group, supported by the 602nd Engineer Squadron (later renamed 602nd Air Engineer Squadron), the 118th Base Unit, and a band, moved to its final station, Lockbourne Field. The 617th Bombardment Squadron and the 99th Fighter Squadron disbanded on July 1, 1947, ending the 477th Composite Group. It would be reorganized as the 332nd Air Expeditionary Wing. How many squadrons were disbanded when the 99th Fighter Squadron was assigned to the 477th on 22 June 1945",
+      "output": "2",
+      "metadata": {
+        "section_id": "history_1916",
+        "query_id": "d072914c-0e36-4811-8285-7c6af130eab0",
+        "all_answer_spans": [
+          "2"
+        ],
+        "answer_types": [
+          "number"
+        ]
+      }
+    },
+    {
+      "input": "On 28 May 1975 James Whetter left MK to form the Cornish Nationalist Party which was campaigning for full Cornish independence. The party declined in the 1980s and was close to collapse by 1990. It did not contest the 1984 European Parliament election; it received 1.9% of the vote in Cornwall and West Plymouth in the 1989 election. During this period, the party focussed on its opposition to the creation of a South West England region. It also campaigned against the construction of a nuclear station at Luxulyan and proposals to increase house-building in Cornwall. In 1988, MK established the Campaign for a Cornish Constituency, which won the support of Cornwall County Council, all the district authorities, several Cornish organisations and three of Cornwall's five MPs. The campaign was well-publicised, attained national attention, and collected over 3,000 signatures in three months. Loveday Jenkin was elected its leader in 1990. The party's vote share declined further to 1.5% of the vote in the 1994 European Parliament election, in the new constituency of Cornwall and West Plymouth. In 1996, MK published 'Cornwall 2000 - The Way Ahead', its most detailed manifesto to date. On 4 October 1997, at the Mebyon Kernow National Conference, Jenkin was replaced by Dick Cole as the leader of MK. How many years was Loveday Jeken a leader?",
+      "output": "7",
+      "metadata": {
+        "section_id": "history_962",
+        "query_id": "50b4c90b-83d1-4741-b043-5cde9566a3ad",
+        "all_answer_spans": [
+          "7"
+        ],
+        "answer_types": [
+          "number"
+        ]
+      }
+    },
+    {
+      "input": "Coming off their home win over the Cowboys, the Giants flew to Lincoln Financial Field for a Week 10 NFC East duel with the Philadelphia Eagles on Sunday Night Football.  In the first quarter, New York trailed early as Eagles WR DeSean Jackson got a 9-yard TD run.  The Giants responded with QB Eli Manning completing a 17-yard TD pass to WR Plaxico Burress, along with kicker John Carney getting a 27-yard field goal.  In the second quarter, the Giants increased their lead as Manning completed a 1-yard TD pass to TE Kevin Boss.  Philadelphia responded with QB Donovan McNabb completing a 10-yard TD pass to WR Jason Avant.  New York answered right back as Carney got a 26-yard field goal.  The Eagles would close out the half as kicker David Akers got a 29-yard field goal. In the third quarter, Philadelphia took the lead as McNabb completed a 7-yard TD pass to WR Hank Baskett.  The Giants replied with RB Brandon Jacobs getting a 3-yard TD run.  New York increased their lead as Carney nailed a 28-yard field goal, along with Jacobs getting another 3-yard TD run (with a failed 2-point conversion).  The Eagles tried to come back as McNabb completed a 2-yard TD pass to WR Kevin Curtis. Big Blue's defense managed to prevent any possible comeback, preserving the lead. How many yards was the shortest TD pass Manning completed?",
+      "output": "1",
+      "metadata": {
+        "section_id": "nfl_1149",
+        "query_id": "f80b05ad-67f9-456f-94ff-59dd8690470e",
+        "all_answer_spans": [
+          "1"
+        ],
+        "answer_types": [
+          "number"
+        ]
+      }
+    },
+    {
+      "input": "The Niners broke the pattern of their first three games, and mounted a second half comeback to beat the Eagles (the 49ers trailed 21-10 in the second quarter). Philadelphia exploited Niner mistakes to score first half touchdowns on a blocked punt recovery, an interception return and a punt return. But the defense never allowed a point by the Eagles offense, who had led the league in scoring through the first 3 weeks of the season, and on the strength of two Colin Kaepernick touchdown passes and four Phil Dawson field goals, they took a late 26-21 lead. Late in the game the Eagles moved to the Niner one yard line, but they turned the ball over on downs, and the Niners held on for the win. The Niners outgained the Eagles 407-213, and held the ball for 42:17. Which team score the most points in the game?",
+      "output": "Niners held on",
+      "metadata": {
+        "section_id": "nfl_2855",
+        "query_id": "31eaa70a-c3ef-4cc5-8457-f83082d8c416",
+        "all_answer_spans": [
+          "Niners held on",
+          "for the win"
+        ],
+        "answer_types": [
+          "span",
+          "span"
+        ]
+      }
+    },
+    {
+      "input": "The Colts began three straight home games in Week 8 with an interconference duel against the San Francisco 49ers.  Indianapolis would find themselves trailing in the first quarter as 49ers running back Frank Gore got a 64-yard touchdown run.  The Colts answered with kicker Matt Stover getting a 38-yard field goal.  In the second quarter, Indianapolis crept closer as Stover made a 33-yard field goal, yet San Francisco answered with quarterback Alex Smith completing an eight-yard touchdown pass to tight end Vernon Davis.  The Colts closed out the half with a 31-yard field goal from Stover. In the second half, Indianapolis narrowed San Francisco's lead to two as Stover booted a 40-yard field goal. In the fourth quarter, they executed a halfback option play as running back Joseph Addai's threw a 22-yard touchdown pass to wide receiver Reggie Wayne. Afterwards, the defense held off against the various comeback attempts from the 49ers. With the win, the Colts improved to 7-0 for the fourth time in five seasons and they set a franchise record with 15 consecutive regular season wins. Also, quarterback Peyton Manning (31/48 for 347 yards) joined Dan Marino, Brett Favre, and John Elway as the only players in NFL history to complete 4,000 career passes.  In addition, he became the fastest to reach the milestone as he reached it in 183 games. Which players had touchdown passes shorter than 25 yards?",
+      "output": "Alex Smith",
+      "metadata": {
+        "section_id": "nfl_1479",
+        "query_id": "80cb7e23-b6ac-4c71-b86c-eddf01a82f5d",
+        "all_answer_spans": [
+          "Alex Smith",
+          "Joseph Addai"
+        ],
+        "answer_types": [
+          "span",
+          "span"
+        ]
+      }
+    },
+    {
+      "input": "The 1994 Monaco Grand Prix was a Formula One motor race held on 15 May 1994 at the Circuit de Monaco, Monte Carlo. It was the fourth race of the 1994 Formula One season, and the first following the deaths of Ayrton Senna and Roland Ratzenberger at the San Marino Grand Prix two weeks previously. The 78-lap race was won by Michael Schumacher driving a Benetton-Ford, his fourth victory from the first four races of 1994. Martin Brundle finished second in a McLaren-Peugeot, with Gerhard Berger third in a Ferrari. What different cars were driven by the 3 winners?",
+      "output": "Benetton-Ford",
+      "metadata": {
+        "section_id": "history_50",
+        "query_id": "38edcbc6-445b-4553-8bc1-24dc0083926d",
+        "all_answer_spans": [
+          "Benetton-Ford",
+          "McLaren-Peugeot",
+          "Ferrari"
+        ],
+        "answer_types": [
+          "span",
+          "span",
+          "span"
+        ]
+      }
+    },
+    {
+      "input": "Coming off their bye week, the Rams went home for a Week 10 duel with the undefeated New Orleans Saints. After a scoreless first quarter, Saints running back Reggie Bush got a 3-yard touchdown run to open the scoring, but the Rams would answer when quarterback Marc Bulger found wide receiver Donnie Avery on a 29-yard touchdown pass. Although New Orleans retook the lead with quarterback Drew Brees' 15-yard touchdown pass to Bush, St. Louis would close out the half with running back Steven Jackson's 2-yard touchdown run. The Saints would deliver a huge strike in the third quarter as wide receiver Courtney Roby returned the second half's opening kickoff 97 yards for a touchdown, yet the Rams would keep it close with kicker Josh Brown's 32-yard field goal. In the fourth quarter, New Orleans would increase their lead with Brees' 27-yard touchdown pass to wide receiver Robert Meachem. St. Louis tried to rally as Bulger completed a 19-yard touchdown pass to Avery (with a failed 2-point conversion), but the Saints' defense would prevent any further progress. How many weeks into the season did the Rams have a bye?",
+      "output": "9",
+      "metadata": {
+        "section_id": "nfl_1658",
+        "query_id": "4643b04e-517e-4304-9148-b7d39ee79b93",
+        "all_answer_spans": [
+          "9"
+        ],
+        "answer_types": [
+          "number"
+        ]
+      }
+    },
+    {
+      "input": "The United States occupation of Haiti began on July 28, 1915, when 330 US Marines landed at Port-au-Prince, Haiti, on the authority of US President Woodrow Wilson. The first invasion forces had already disembarked from USS Montana on January 27, 1914. The July intervention took place following the murder of dictator President Vilbrun Guillaume Sam by insurgents angered by his political executions of elite opposition. The occupation ended on August 1, 1934, after President Franklin D. Roosevelt reaffirmed an August 1933 disengagement agreement. The last contingent of US Marines departed on August 15, 1934, after a formal transfer of authority to the Garde d'Haïti. How many years did the U.S. occupation of Haiti last?",
+      "output": "6",
+      "metadata": {
+        "section_id": "history_1565",
+        "query_id": "3b21f0d8-0496-4e54-8b12-5d07ba80c1af",
+        "all_answer_spans": [
+          "6"
+        ],
+        "answer_types": [
+          "number"
+        ]
+      }
+    },
+    {
+      "input": "Barnard Castle has road connections to Bishop Auckland, Spennymoor and central County Durham via the A688 and Darlington, Stockton-on-Tees, and Middlesbrough by the A67. Barnard Castle is also four miles  from the A66, with access to the M6 to the west and the A1 to the east. The B6278 also connects Barnard Castle with Middleton-in-Teesdale. Barnard Castle railway station was closed for passenger trains in 1964. A Bill was approved in 1854 for a line from a junction with the Stockton & Darlington Railway at Darlington to Barnard Castle and opened on 9 July 1856, with intermediate stations at Broomielaw, Winston, Gainford & Piercebridge. The terminus at Darlington only lasted five years.  In 1856 the South Durham & Lancashire Railway proposed a line from Bishop Auckland to Tebay via Barnard Castle and Kirkby Stephen but only the western section was built with the Company receiving its Bill in 1857.  The line opened on 8 August 1861 from a second terminus at Barnard Castle to a junction with the Lancaster & Carlisle Railway at Tebay with intermediate stations at Lartington, Bowes, Barras, Kirkby Stephen, Ravenstondale & Gaisgill. The two stations at Barnard Castle were some distance apart; the earliest station became a through station and closed to passengers on 1 May 1862, but remained in use as a goods depot. The second station was closed for passenger trains under the Beeching cuts in 1964 and completely on 5 April 1965 and the site was eventually built on by Glaxo Smith Kline. Today rail access is via Bishop Auckland, 15 miles  or Darlington, 16 miles . How many years after the opening of the Barnard County railway station opening did it close to passenger trains?",
+      "output": "108",
+      "metadata": {
+        "section_id": "history_194",
+        "query_id": "7284933a-1c67-411b-b206-320d593f0b34",
+        "all_answer_spans": [
+          "108"
+        ],
+        "answer_types": [
+          "number"
+        ]
+      }
+    },
+    {
+      "input": "Hoping to increase their winning streak the Eagles flew to LP Field for an Interconference duel with the Titans. In the second quarter the Eagles took the lead with kicker David Akers making a 25-yard field goal. But they trailed when QB Kerry Collins completed a 26-yard TD pass to WR Kenny Britt. The Eagles replied with QB Kevin Kolb making a 5-yard TD pass to WR Riley Cooper, followed by kicker David Akers hitting a 46-yard field goal. In the third quarter the Eagles increased their lead with Akers making a 46-yard field goal. The Titans answered with kicker Rob Bironas nailing a 41-yard field goal, but the Eagles continued to score in the 4th with Akers hitting a 28-yard field goal. Eventually, they fell behind with Collins completing an 80-yard TD pass to Britt, followed by Bironas hitting a 38-yard field goal. Collins found Britt for the third time in the game on a 16-yard TD pass, and then Bironas made a 33-yard field goal. The Eagles had more problems when Kolb's pass was intercepted by CB Cortland Finnegan and returned 41 yards for a touchdown. With the loss, the Eagles went into their bye week at 4-3. Andy Reid announced that Michael Vick would regain the starting quarterback position after the bye week, effectively ending any quarterback controversy How many total yards of field goals did Rob Bironas make?",
+      "output": "112",
+      "metadata": {
+        "section_id": "nfl_2022",
+        "query_id": "ac30258e-edc0-44bb-a861-af8f03b7f03b",
+        "all_answer_spans": [
+          "112"
+        ],
+        "answer_types": [
+          "number"
+        ]
+      }
+    },
+    {
+      "input": "Coming off their shutout home win over the Rams, the Seahawks flew to Candlestick Park for a Week 2 NFC West showdown with the San Francisco 49ers. Seattle would trail early in the first quarter as 49ers kicker Joe Nedney got a 37-yard field goal, along with running back Frank Gore getting a 79-yard touchdown run. The Seahawks would respond in the second quarter as kicker Olindo Mare made a 36-yard field goal. San Francisco would reply with Nedney making a 42-yard field goal. As the Seahawks looked to bounced back from the deficit, quarterback Matt Hasselbeck received an injury as he was hit on the ground by 49ers linebacker Patrick Willis. Hasselbeck would leave the game with cracked ribs, yet Seattle closed out the half with backup Seneca Wallace completing a 1-yard touchdown pass to running back Julius Jones. In the third quarter, the Seahawks deficit quickly increased as on the 49ers' first offensive play of the second half, Gore would explode for an 80-yard touchdown run. San Francisco would close the game out in the fourth quarter as Nedney nailed a 39-yard field goal. How many was the longest touchdown run?",
+      "output": "79",
+      "metadata": {
+        "section_id": "nfl_1641",
+        "query_id": "40469b1a-0c42-4c90-95b1-00e36a334313",
+        "all_answer_spans": [
+          "79"
+        ],
+        "answer_types": [
+          "number"
+        ]
+      }
+    },
+    {
+      "input": "Following a national plebiscite in July 1937, the new Constitution of Ireland  came into force on 29 December 1937. This replaced the Constitution of the Irish Free State and called the state Ireland, or Éire in Irish. While Articles 2 and 3 of the Constitution defined the national territory to be the whole island, they also confined the state's jurisdiction to the area that had been the Irish Free State. The former Irish Free State government had abolished the Office of Governor-General in December 1936. Although the constitution established the office of President of Ireland, the question over whether Ireland was a republic remained open. Diplomats were accredited to the king, but the president exercised all internal functions of a head of state. For instance, the President gave assent to new laws with his own authority, without reference to King George VI who was only an \"organ\", that was provided for by statute law. Ireland remained neutral during World War II, a period it described as the Emergency. Ireland's link with the Commonwealth was terminated with the passage of the Republic of Ireland Act 1948, which came into force on 18 April 1949 and declared that the state was a republic. At the time, a declaration of a republic terminated Commonwealth membership. This rule was changed 10 days after Ireland declared itself a republic, with the London Declaration of 28 April 1949. Ireland did not reapply when the rules were altered to permit republics to join. Later, the Crown of Ireland Act was repealed in Ireland by the Statute Law Revision  Act 1962. How many years were ther between the abolishment of Office of Governor-General and the new Constitution of Ireland?",
+      "output": "1",
+      "metadata": {
+        "section_id": "history_1238",
+        "query_id": "b8553a3c-2834-4a28-8c45-6757c4ad68af",
+        "all_answer_spans": [
+          "1"
+        ],
+        "answer_types": [
+          "number"
+        ]
+      }
+    },
+    {
+      "input": "On 2 May, the German capital city, Berlin, fell to the Red Army. On 8 May 1945, the Germans surrendered unconditionally and the war in Europe officially ended. The Italians had quit the war in 1943, the Bulgarians in 1944, and the Hungarians earlier in 1945. Despite the German capitulation, however, sporadic fighting still took place in Yugoslavia. On 7 May, Zagreb was evacuated, on 9 May, Maribor and Ljubljana were captured by the Partisans, and General Alexander Löhr, Commander-in-Chief of Army Group E was forced to sign the total surrender of the forces under his command at Topolšica, near Velenje, Slovenia, on Wednesday 9 May 1945. Only the Croatian and other anti-Partisan forces remained. From 10 to 15 May, the Yugoslav Partisans continued to face resistance from Croatian, and other anti-Partisan forces throughout the rest of Croatia and Slovenia. The Battle of Poljana, the last battle of World War II in Europe, started on 14 May, ending on 15 May 1945 at Poljana, near Prevalje in Slovenia. It was the culmination and last of a series of battles between Yugoslav Partisans and a large  mixed column of German Army  soldiers together with Croatian Ustaše, Croatian Home Guard, Slovenian Home Guard, and other anti-Partisan forces who were attempting to retreat to Austria. What happened first: Germans surrendered unconditionally or Italians quit the war?",
+      "output": "Italians quit the war",
+      "metadata": {
+        "section_id": "history_1690",
+        "query_id": "6d5438a6-d90c-4c29-995b-1faace771c33",
+        "all_answer_spans": [
+          "Italians quit the war"
+        ],
+        "answer_types": [
+          "span"
+        ]
+      }
+    },
+    {
+      "input": "In 2000 there were 79,667 households out of which 38.70% had children under the age of 18 living with them, 61.90% were married couples living together, 10.20% had a female householder with no husband present, and 24.20% were non-families. 19.70% of all households were made up of individuals and 6.80% had someone living alone who was 65 years of age or older.  The average household size was 2.72 and the average family size was 3.14. How many percent are not households made up of individuals?",
+      "output": "80.3",
+      "metadata": {
+        "section_id": "history_2185",
+        "query_id": "dd3a4c41-bbc4-4ab8-b6fe-b5ddb359c57d",
+        "all_answer_spans": [
+          "80.3"
+        ],
+        "answer_types": [
+          "number"
+        ]
+      }
+    },
+    {
+      "input": "In 1627 he removed to Leipzig, where he was permitted to lecture. In 1629 he was appointed professor at Wittenberg, where he achieved an authoritative position. In 1630 he was sent to Leipzig as a delegate to a convention in behalf of the Augsburg Confession, and in 1645 he took a leading position at the colloquy of Thorn. In 1646 he became professor at Leipzig, and while there he also served as pastor of St. Nicholas Church and as superintendent from 1657. He wrote Calvinisimus irreconciliabilis  as the counterpart to Bishop Joseph Hall's Roma irreconciliabilis, adding an appendix Quae dogmata sint ad salutem creditu necessaria, which is somewhat conciliatory towards the Reformed doctrine of the Lord's Supper and the personal union. In his later years he denied his appendix and asked for it to be considered an immature writing of his youth. Though Hülsemann had been friends with Calixtus before Thorn, he became his declared opponent. In the years following Thorn, he became one of the most prominent adversaries of Calixtus, and though Abraham Calovius is more remembered today, many of his contemporaries considered him the leader of German Lutheranism. According to Ingetraut Ludolphy, he was a born systematician, whose attacks on Calixtus and the other Helmstedt theologians are far superior to most other anti-Helmstedt polemics. What happened second: leading position at the colloquy or he became professor at Leipzig?",
+      "output": "he became professor at Leipzig",
+      "metadata": {
+        "section_id": "history_813",
+        "query_id": "8784b498-f197-4c86-b74e-417c5ca90ad6",
+        "all_answer_spans": [
+          "he became professor at Leipzig"
+        ],
+        "answer_types": [
+          "span"
+        ]
+      }
+    },
+    {
+      "input": "In week three, Chicago hosted the 2-0 Pittsburgh Steelers, who trailed the all-time series 18-7-1 and had not defeated the Bears since 2005. WBBM-TV writer Jeff Joniak described the Bears as in \"clean-up mode\" after a poor performance in Tampa. The battle between the Bears' rushing attack and the Steelers' run defense featured the former averaging just 2.9 yards per carry (27th in the league) taking on a defense that allowed just 74 yards per game and 3.3 yards per carry. Joniak added Chicago's running game should try to make progress on early downs to allow Mike Glennon to succeed against Pittsburgh. Defensively, Joniak wrote the Bears had \"their hands full\" as Steelers quarterback Ben Roethlisberger was aided by receivers Antonio Brown and Martavis Bryant, running back Le'Veon Bell, and tight end Jesse James. In spite of Pittsburgh's success in contrast with Chicago's struggles, a common belief was that the Steelers would often \"play down to their competition,\" one that was spurned in the wake of Glennon's 2014 Buccaneers upsetting the Steelers 27-24. The first two drives of the game ended with punts, but on the Bears' first punt of the game, Steelers returner Eli Rogers muffed the ball and Sherrick McManis recovered. Jordan Howard would score a three-yard touchdown run on the drive. On the Steelers' next drive, Roethlisberger was sacked by Bryce Callahan and fumbled, with Akiem Hicks recovering. The takeaway failed to result in points, however, as Connor Barth missed a 47-yard field goal. In the second quarter, Roethlisberger threw a seven-yard touchdown pass to Brown, which the Bears responded via Glennon's two-yard touchdown pass to Adam Shaheen. On the final play of the first half, Chris Boswell's 35-yard field goal was blocked by McManis into Marcus Cooper's hands. Cooper raced down the field before suddenly slowing down before he reached the end zone, which allowed Pittsburgh's Vance McDonald to knock the ball away at the one-yard line. The ball was then batted out of the end zone, which led to a penalty against the Steelers and an untimed play for the Bears. A false start penalty on Charles Leno Jr. prompted the Bears to instead kick a 24-yard field goal. In the second half, the Bears suffered their first turnover of the game when Howard was stripped by Ryan Shazier; the Steelers took advantage to score on Bell's one-yard touchdown run. A second giveaway occurred when Glennon's pass for Zach Miller was intercepted by J. J. Wilcox, which enabled the Steelers to tie the game on Boswell's 32-yard field goal. The game remained scoreless through the rest of the half, resulting in overtime. After winning the coin toss to start overtime with the ball, the Bears quickly scored on the second play of the series; Tarik Cohen broke through for a 73-yard touchdown run, but was ruled to have stepped out of bounds at the Steelers' 37-yard line. Two plays later, Howard scored the game-winning touchdown on a 19-yard run. In claiming their first victory of the season, the Bears' running backs provided a solid performance, recording a combined 220 yards on the ground - 200 yards more than in week two. The defense also shone, forcing two turnovers after having just one in the first two games. Which player broke through for a 73-yard touchdown run?",
+      "output": "Cohen",
+      "metadata": {
+        "section_id": "nfl_3265",
+        "query_id": "c3f26b6c-9511-44fe-9581-335b354b3dd4",
+        "all_answer_spans": [
+          "Cohen"
+        ],
+        "answer_types": [
+          "span"
+        ]
+      }
+    },
+    {
+      "input": "Kėdainiai was attacked by the 2nd Riflemen Regiment of Lithuanian  Division . Lithuanian forces from Panevėžys, commanded by Jonas Variakojis, and from Kėdainiai numbered only about 200 men. Lithuanians withstood Red Army advance near Kėdainiai and with German support repelled it. On February 8, during the course of a reconnaissance mission, Povilas Lukšys became the first Lithuanian soldier to die in the war. On February 10, joint Lithuanian and German forces captured Šėta and forced the Red Army to retreat. The success of this operation lifted the Lithuanian army's morale and prevented the Red Army from encircling Kaunas from the north. On February 9, Soviet 7th Riflemen Regiment  took over Jieznas, south of Kaunas. The following day Lithuanian forces  from Prienai and Kaunas attacked before the Red Army could consolidate position, but were betrayed by their Russian commander and suffered a defeat: 18 Lithuanians were killed and 33 were taken prisoners. Lithuanians retreated, were reinforced by new Lithuanian and Saxon Volunteers, attacked again, and took Jieznas on February 13. The Soviets continued to push for Kaunas. The 3rd and 4th Riflemen Regiments  attacked Alytus on February 12. Germans did not engage in battle and retreated; not yet fully formed Lithuanian 1st Infantry Regiment could not withstand pressure from the Red Army and had to retreat towards Marijampolė and Prienai. Antanas Juozapavičius, the first Lithuanian officer to die in the wars, was killed during this battle. On the night of February 14-15, German forces and one company of the Lithuanians returned to Alytus and retook the city. Kaunas was defended and the front stabilized for a while. Soviets were ordered to abandon the offensive and maintain defensive position. This break allowed Lithuanians to better organize and train the volunteers. What day did the Russian commander betray his troops?",
+      "output": "10 February",
+      "metadata": {
+        "section_id": "history_905",
+        "query_id": "ed13e22d-1a95-4de3-b6df-eaa7a30d4af6",
+        "all_answer_spans": [
+          "10 February"
+        ],
+        "answer_types": [
+          "date"
+        ]
+      }
+    },
+    {
+      "input": "Hoping to rebound from their loss to the Eagles the Falcons played inside their dome for an inter-conference duel against the Bengals. In the first quarter the Falcons took the lead as QB Matt Ryan connected on a 3-yard TD pass to unheralded WR Brian Finneran. But the Bengals replied with kicker Mike Nugent making a 20-yard field goal. The Falcons dominated the second quarter, going on a 17-0 run. Kicker Matt Bryant hitting a 45-yard field goal. Then Ryan found deep threat WR Roddy White, who would eventually lead the NFL with 115 receptions, on a 43-yard TD pass, followed by eventual rushing yards leader, RB Michael Turner popping into the end zone on a 2-yard TD run. The Bengals rally in the third quarter going on a 22-0 run of their own. Nugent nailed a 33-yard field goal, followed by QB Carson Palmer completing a 19-yard TD pass to WR Terrell Owens. Then Palmer found WR Jordan Shipley on a laser 64-yard TD pass. (With a failed 2-point conversion) Then DB Adam Jones returned a fumble 59 yards to the endzone for a touchdown (With a failed two-point conversion). The Falcons pulled away in the fourth quarter with Ryan throwing an 11-yard TD pass to White. (With the 2-point conversion successful as Ryan passed to White) This was followed by Turner plunging into the end zone on a 3-yard TD run. The Falcons would concede only one touchdown after that as Palmer found WR Chad Ochocinco on an 8-yard TD pass. With the win, Atlanta went into its bye week at 5-2. How many touchdowns of less than 10 yards were scored?",
+      "output": "4",
+      "metadata": {
+        "section_id": "nfl_1716",
+        "query_id": "0ab40dbf-0886-46cb-8cf1-2f571e5cc1e1",
+        "all_answer_spans": [
+          "4"
+        ],
+        "answer_types": [
+          "number"
+        ]
+      }
+    },
+    {
+      "input": "Coming off their season-sweep of the Chiefs, the Chargers flew to Raymond James Stadium for a Week 16 interconference duel with the Tampa Bay Buccaneers.  In the first quarter, San Diego struck first as quarterback Philip Rivers completed an 11-yard touchdown pass to tight end Brandon Manumaleuna.  The Buccaneers would respond with fullback B.J. Askew getting a 1-yard touchdown run.  The Chargers would answer in the second quarter Rivers completing a 15-yard touchdown pass to tight end Antonio Gates, followed by kicker Nate Kaeding getting a 28-yard field goal.  Tampa Bay would answer with kicker Matt Bryant getting a 49-yard field goal.  San Diego would close out the first half with Kaeding's 57-yard field goal. The Buccaneers would take the lead in the third quarter with quarterback Jeff Garcia getting a 7-yard touchdown run and completing a 71-yard touchdown pass to wide receiver Antonio Bryant.  Afterwards, in the fourth quarter, the Chargers rallied to victory with Rivers completing a 5-yard touchdown pass to Gates and a 32-yard touchdown pass to running back Darren Sproles, followed by cornerback Antoine Cason returning an interception 59 yards for a touchdown. With the win, San Diego kept their playoff hopes alive at 7-8. Who had the shortest run?",
+      "output": "B.J. Askew",
+      "metadata": {
+        "section_id": "nfl_1229",
+        "query_id": "9fad105c-3a5e-49e4-a417-3fd446e5720d",
+        "all_answer_spans": [
+          "B.J. Askew"
+        ],
+        "answer_types": [
+          "span"
+        ]
+      }
+    },
+    {
+      "input": "Hoping to rebound from their road loss to the Saints, the Jets flew to Land Shark Stadium for a Week 5 Monday Night duel with their AFC East rival, the Miami Dolphins.  New York immediately trailed as the Dolphins took the game's opening drive and capped it off with a 1-yard touchdown run from running Ronnie Brown.  The Jets immediately responded with rookie quarterback Mark Sanchez completing a 3-yard touchdown pass to newly acquired wide receiver Braylon Edwards.  Afterwards, Miami closed out the opening quarter with a 35-yard field goal from kicker Dan Carpenter.  In the second quarter, New York took the lead as kicker Jay Feely got a 40-yard and a 43-yard field goal. After a scoreless third quarter, both the Jets and the Dolphins would get involved in a back-and-forth fourth quarter.  Miami opened up the period with quarterback Chad Henne hooking up with tight end Anthony Fasano on a 2-yard touchdown pass, while New York got a 1-yard touchdown run from running back Thomas Jones.  The Dolphins would immediately respond as Henne threw a 53-yard touchdown pass to wide receiver Ted Ginn, Jr., but Jones came through again with a 3-yard touchdown run.  Late in the game, Miami managed to crack through the Jets' defense as Brown got a 2-yard touchdown run.  New York tried to rally, but Sanchez's last-second hail mary pass was knocked away. How many yards was the shortest field goal of the first two quarters?",
+      "output": "35",
+      "metadata": {
+        "section_id": "nfl_1567",
+        "query_id": "35069cca-ac09-4d41-967c-ac3af61e1a05",
+        "all_answer_spans": [
+          "35"
+        ],
+        "answer_types": [
+          "span"
+        ]
+      }
+    },
+    {
+      "input": "In the second half of 1724, the New Englanders launched an aggressive campaign up the Kennebec and Penobscot rivers.:80 On August 22, Captains Jeremiah Moulton and Johnson Harmon led 200 rangers to Norridgewock to kill Father Rale and destroy the settlement. There were 160 Abenakis, many of whom chose to flee rather than fight. At least 31 chose to fight, and most of them were killed.:80 Rale was killed in the opening moments of the battle, a leading chief was killed, and nearly two dozen women and children.:84 The Colonists had casualties of two militiamen and one Mohawk. Harmon destroyed the Abenaki farms, and those who had escaped were forced to abandon their village and move northward to the Abenaki village of St. Francis and Becancour, Quebec.:81 :123 Of the Abenakis who fought, did more live or die?",
+      "output": "most of them were killed",
+      "metadata": {
+        "section_id": "history_525",
+        "query_id": "987ebffb-5a23-45f8-8f0f-6a2e68d47e85",
+        "all_answer_spans": [
+          "most of them were killed"
+        ],
+        "answer_types": [
+          "span"
+        ]
+      }
+    },
+    {
+      "input": "In the north of the region is the Sailughem Mountains, also known as Kolyvan Altai, which stretch northeast from 49° N and 86° E towards the western extremity of the Sayan Mountains in 51° 60 N and 89° E. Their mean elevation is 1,500 to 1,750 m. The snow-line runs at 2,000 m on the northern side and at 2,400 m on the southern, and above it the rugged peaks tower some 1,000 m higher. Mountain passes across the range are few and difficult, the chief being the Ulan-daban at 2,827 m (2,879 m according to Kozlov), and the Chapchan-daban, at 3,217 m, in the south and north respectively. On the east and southeast this range is flanked by the great plateau of Mongolia, the transition being effected gradually by means of several minor plateaus, such as Ukok plateau (2,380 m) with Pazyryk Valley, Chuya (1,830 m), Kendykty (2,500 m), Kak plateau (2,520 m), (2,590 m), and (2,410 m). Which plateau has the lowest elevation of Ukok, Chuya, and Kak?",
+      "output": "Chuya",
+      "metadata": {
+        "section_id": "history_3380",
+        "query_id": "4d1b8b09-3f57-43bc-8db2-0658211c925d",
+        "all_answer_spans": [
+          "Chuya"
+        ],
+        "answer_types": [
+          "span"
+        ]
+      }
+    },
+    {
+      "input": "After the War of the Spanish Succession in the early 18th century, possession of the kingdom again changed hands. Under the terms of the Treaty of Rastatt in 1714, Naples was given to Charles VI, the Holy Roman Emperor. He also gained control of Sicily in 1720, but Austrian rule did not last long. Both Naples and Sicily were conquered by a Spanish army during the War of the Polish Succession in 1734, and Charles, Duke of Parma, a younger son of King Philip V of Spain was installed as King of Naples and Sicily from 1735. When Charles inherited the Spanish throne from his older half-brother in 1759, he left Naples and Sicily to his younger son, Ferdinand IV. Despite the two Kingdoms being in a personal union under the Habsburg and Bourbon dynasts, they remained constitutionally separate. Being a member of the House of Bourbon, Ferdinand IV was a natural opponent of the French Revolution and Napoleon. In 1798, he briefly occupied Rome, but was expelled from it by French Revolutionary forces within the year. Soon afterwards Ferdinand fled to Sicily. In January 1799 the French armies installed a Parthenopaean Republic, but this proved short-lived, and a peasant counter-revolution inspired by the clergy allowed Ferdinand to return to his capital. However, in 1801 Ferdinand was compelled to make important concessions to the French by the Treaty of Florence, which reinforced France's position as the dominant power in mainland Italy. Which happened first, the Treaty of Rastatt or the War of Polish Succession?",
+      "output": "the Treaty of Rastatt",
+      "metadata": {
+        "section_id": "history_840",
+        "query_id": "c62d0909-9117-465d-a54c-d6e508d01cb9",
+        "all_answer_spans": [
+          "the Treaty of Rastatt"
+        ],
+        "answer_types": [
+          "span"
+        ]
+      }
+    },
+    {
+      "input": "The Packers flew to Denver for a duel with Peyton Manning and the undefeated Denver Broncos. The Broncos wore their alternate blue uniforms with white pants as worn in Super Bowl XXXII. Packers cornerbacks Sam Shields and rookie cornerback Quinten Rollins suffered a shoulder injury in the game and their returns were questionable. The Broncos took the lead early in the first quarter when Ronnie Hillman scored a 1-yard touchdown. In the second quarter, Hillman scored another touchdown and the Broncos led 14-0. The Broncos lead became 17-0 when Brandon McManus made a 50-yard field goal. Von Miller was injured during the second quarter. The Packers struck back when Eddie Lacy scored on a 2-yard touchdown run. They trailed 7-17 at halftime. In the third quarter, the Packers cut Denver's lead to seven when Mason Crosby made a 56-yard field goal. Denver extended their lead to 24-10 when C.J. Anderson made a 28-yard run. Denver continued to dominate when Brandon McManus made a 24-yard field goal and DeMarcus Ware sacked Aaron Rodgers for a safety, making the score 10-29. The Packers defense finally recorded an interception when Damarious Randall picked off Peyton Manning. In this game, the Broncos held Rodgers to 77 yards passing, the lowest of his starting career in a game where he hasn't came off with injury. How many more points did the Broncos score in the first half compared to the Packers?",
+      "output": "10",
+      "metadata": {
+        "section_id": "nfl_2957",
+        "query_id": "241a7c93-74cc-44f0-b94d-5d97a077bbcc",
+        "all_answer_spans": [
+          "10"
+        ],
+        "answer_types": [
+          "number"
+        ]
+      }
+    },
+    {
+      "input": "The Patriots set a new record for points scored against the Jaguars with 51(breaking the previous record of 50 set by the prolific 1998 Minnesota Vikings). After forcing the Jaguars to punt, the Patriots 64 yards in just 5 plays, taking less than two minutes, to score on an 8-yard touchdown run by Lewis. The Jaguars moved the ball well on their next drive, reaching the Patriots 46, but on 3rd-and-12, Jabaal Sheard sacked Blake Bortles for a 6-yard loss, forcing Jacksonville to punt. The Patriots drove to the Jaguars 32 on their next drive, but a pass interference penalty moved the Patriots back to the 42, ultimately settling for a 45-yard field goal. The Jaguars then began a marathon 17 play, 58-yard drive, taking 8:24 off the clock, and converting four third-and-longs, but could only settle for a 40-yard field goal by Jason Myers. The Patriots countered, marching 78 yards in 14 plays to the Jacksonville 2-yard line, but the Jags defense held and the Patriots settled for a 20-yard field goal, increasing their lead to 13-3. The Jaguars drove to the Patriots 45 on their next drive, but McCourty intercepted the pass at the Patriots 16 and returned it 27 yards to the Patriots 43. The Patriots raced 57 yards in just 8 plays and 1:29, scoring on 1-yard touchdown pass to Danny Amendola, increasing the lead to 20-3. Bortles took a knee and the game went to halftime with the Patriots up 20-3. The Patriots drove to the Jaguars 21 on the opening drive of the second half, but on 3rd-and-13, Brady was sacked for a 7-yard loss by Ryan Davis and Gostkowski kicked a 45-yard field goal, increasing the lead to 23-3. After a Jacksonville three-and-out, the Patriots had one of the strangest scoring \"drives\" in NFL history. Gronkowski was flagged for offensive pass interference pushing the ball five yards back to the Patriots 33. On the very next play, Brady attempted a deep pass to Aaron Dobson that fell incomplete, but Jacksonville was flagged for pass interference moving the ball to the Jaguars 25. Again, on the very next play, Brady was intercepted by Davon House who returned the ball 82 yards to the Patriots 26, however, the Jags were called for pass interference again, moving the ball to the 1-yard line. On the very next play, LeGarrette Blount ran it in for a touchdown and a 30-3 Patriots lead. The Jaguars finally struck for a touchdown on their next drive as Blake Bortles hit Allen Hurns for a 59-yard touchdown pass to end the 80-yard drive. The Patriots were relentless, though. Following Jacksonville's touchdown, the Patriots matched with one of their own. Midway through the 7 play, 80-yard drive, a horse-collar tackle at the end of a 17-yard Blount run moved the ball to the Jaguars 15. Two plays later Brady hit rookie receiver Keshawn Martin on a 13-yard touchdown pass, increasing the lead to 37-10.  After forcing the Jaguars into a turnover on downs, the Patriots didn't skip a beat marching 24 yards, needing only 5 plays, with Blount rushing for a 1-yard touchdown on the first play of the fourth quarter making the score an embarrassing 44-10. Following a Jaguars three-and-out, the Patriots took a page from the Jaguars playbook slowly moving 58 yards in 17 plays, taking 9:47 off the clock, scoring on another 1-yard touchdown run by Blount, blowing the lid off with a 51-10 score. Bortles commanded an 80-yard drive, hitting tight end Clay Harbor for a 6-yard touchdown. Jimmy Garoppolo took two knees and the game was over. The Patriots won the turnover battle 1-0, dominated in total yards 471-293, more than doubled their first down total at 35-15, and held the ball for almost 10 minutes longer. With the win the Patriots improved to 3-0 and showed the damage their offense can do. How many yards was the shortest touchdown run?",
+      "output": "1",
+      "metadata": {
+        "section_id": "nfl_2981",
+        "query_id": "dd07137f-fe43-4d78-b706-b0a9bedbe01b",
+        "all_answer_spans": [
+          "1"
+        ],
+        "answer_types": [
+          "number"
+        ]
+      }
+    },
+    {
+      "input": "The Browns stayed home in Week 16 for a match with the Oakland Raiders, trying to extend their 2-game winning streak. The Browns struck first with a 17-yard run by Jerome Harrison and a 42-yard field goal from Phil Dawson. Oakland kicker Sebastian Janikowski hit 3 field goals in the first half, including a 61 yarder to close out the half. However, the Browns led at halftime, 17-9. The Browns held the Raiders scoreless in the second half, and Dawson hit 2 more field goals to lead the Browns to a 23-9 victory, their third in a row. How many points were the Browns winning by at the end of the first half?",
+      "output": "8",
+      "metadata": {
+        "section_id": "nfl_1414",
+        "query_id": "b468fb9f-3a61-460c-8589-1ef8a34435b1",
+        "all_answer_spans": [
+          "8"
+        ],
+        "answer_types": [
+          "number"
+        ]
+      }
+    },
+    {
+      "input": "Hoping to maintain their winning streak the Ravens flew to Paul Brown Stadium for an AFC North rivalry match against the Bengals. In the 2nd quarter Baltimore trailed early as kicker Mike Nugent hit a 36 and a 30-yard field goal. In the third quarter the Ravens replied and took the lead with QB Joe Flacco completing a 31-yard TD pass to WR Derrick Mason. The Bengals replied when Nugent hit a 46-yard field goal. The Ravens took the lead back in the fourth quarter when kicker Billy Cundiff got a 38-yard field goal, but it was cut off by Nugent's 38 and 25-yard field goal, giving Baltimore a loss. How many yards was the average field goal kicked in the 2nd quarter?",
+      "output": "33",
+      "metadata": {
+        "section_id": "nfl_1726",
+        "query_id": "2ecd1987-3af3-4d61-a628-d2246b6bbf27",
+        "all_answer_spans": [
+          "33"
+        ],
+        "answer_types": [
+          "number"
+        ]
+      }
+    },
+    {
+      "input": "Coming off their impressive victory over the Panthers, the Redskins stayed at home a Week 13 fight with the Atlanta Falcons.  In the first quarter, the Redskins started strong with RB Ladell Betts getting an 8-yard TD run, while QB Jason Campbell completed a 42-yard TD pass to WR Santana Moss.  In the second quarter, the Falcons started catching up with kicker Morten Andersen's 34-yard field goal and QB Michael Vick's 16-yard TD pass to TE Alge Crumpler.  In the third quarter, Washington lost its lead with Vick's 22-yard TD pass to WR Michael Jenkins for the only score of the period.  In the fourth quarter, the Redskins fell when RB Jerious Norwood ran 69 yards for a touchdown.  With the loss, Washington fell to 4-8. Stats Which player scored the first touchdown of the game?",
+      "output": "Ladell Betts",
+      "metadata": {
+        "section_id": "nfl_429",
+        "query_id": "5375c124-f4b5-4f3f-939f-f19030cc2dbc",
+        "all_answer_spans": [
+          "Ladell Betts"
+        ],
+        "answer_types": [
+          "span"
+        ]
+      }
+    },
+    {
+      "input": "Economic crisis occurred after the Swedish war of liberation because of the trade monopoly the king had granted the Hanseatic Lübeck in exchange for their support in recapturing the capital during the war. The discontent was used by two Catholic priests, former Bishop Peder Jakobsson of Västerås, a follower of Sten Sture the Younger, and Knut Mickelsson, who opposed the inclinations of Lutheranism which the king had displayed as early as 1524, who stirred up the emotions against the king and for the Sture family in the province.In the spring of 1525, the Dalecarlians held a meeting and wrote a letter in which they complained of the foreign bailiffs and the imprisonment of Sten Sture's widow Christina Gyllenstierna, and stated that they would renounce their fealty unless their demands were met. They reportedly contacted Søren Norby, who offered Christina marriage. The king managed to subdue the discontent by promising to meet their demands in May 1525, and the leaders fled to Norway. They were extradited in 1526, and executed through Breaking wheel in February 1527. How many years passed after the leaders were extradited and finally executed?",
+      "output": "1",
+      "metadata": {
+        "section_id": "history_400",
+        "query_id": "443fac0c-e2b7-411c-866f-5de5763b583e",
+        "all_answer_spans": [
+          "1"
+        ],
+        "answer_types": [
+          "number"
+        ]
+      }
+    },
+    {
+      "input": "Tikvesh uprising  was an uprising in the Tikveš region of Macedonia in late June 1913. It was organized by the Internal Macedonian Revolutionary Organization  against the Serbian government in Vardar Macedonia and took place behind the Serbian lines during the Second Balkan War. IMRO acted in close coordination with the Bulgarian army generals in Macedonia, whose troops at the time were located on the left bank of the Vardar river. The rebellion started prematurely on June 15, 1913, after the secret uprising conspiracy had been revealed by the local Serbian authorities. The organisers had planned to start armed resistance against the oppressors after the Bulgarian Army had begun operations in the region. The rebellion spread in the regions of Kavadarci, Negotino and the village of Vatasha. Two large rebel groups were set up with leaders Doncho Lazarov and Mishe Shkartov. The Serbian army unit in Negotino was attacked and forced out from the town, Kavadarci and Vatasha were liberated soon after. The rebellions set up a provisional Bulgarian government in these settlements. Reorganized Serbian army troops and irregulars led by Vasilije Trbić were sent to crush the uprising. On June 25, after realising that help from the Bulgarian army would not be coming soon, the rebels moved out from the towns. In the following days the Serbian army brutally suppressed the uprising and terrorized the Bulgarian population in the rebelling regions. According to some sources 363 civilians were killed in Kavadarci, 230 - in Negotino and 40 - in Vatasha. What happened last, Serbian army in Negotino was attacked or terrorized the Bulgarian population?",
+      "output": "terrorized the Bulgarian populations",
+      "metadata": {
+        "section_id": "history_1530",
+        "query_id": "114423e0-f745-4c08-87ef-8e9011629a1d",
+        "all_answer_spans": [
+          "terrorized the Bulgarian populations"
+        ],
+        "answer_types": [
+          "span"
+        ]
+      }
+    },
+    {
+      "input": "Hoping to rebound from their shutout loss to the Buccaneers, the 49ers flew to the University of Phoenix Stadium for a Week 12 NFC West duel with the Arizona Cardinals on Monday night.  San Francisco made the opening strike in the first quarter as quarterback Troy Smith found wide receiver Michael Crabtree on a 38-yard touchdown pass.  The Cardinals answered with kicker Jay Feely getting a 31-yard field goal, yet the 49ers responded with a 1-yard touchdown run from rookie running back Anthony Dixon.  San Francisco added onto their lead in the second quarter with an 8-yard touchdown pass from running back Brian Westbrook.  Arizona would hang on with Feely's 39-yard field goal.  Afterwards, the 49ers pulled away with a 38-yard field goal in the third quarter and a 26-yard field goal in the fourth quarter from kicker Shane Andrus. What are the two shortest field goals made?",
+      "output": "26-yard",
+      "metadata": {
+        "section_id": "nfl_2071",
+        "query_id": "5f0a1b44-16c7-4dee-aa6a-204a1391bf06",
+        "all_answer_spans": [
+          "26-yard",
+          "31-yard"
+        ],
+        "answer_types": [
+          "span",
+          "span"
+        ]
+      }
+    },
+    {
+      "input": "In 2000, there were 149,957 households out of which 18.30% had children under the age of 18 living with them, 52.70% were Marriage living together, 7.70% had a female householder with no husband present, and 37.00% were non-families. 30.40% of all households were made up of individuals and 16.90% had someone living alone who was 65 years of age or older.  The average household size was 2.13 and the average family size was 2.61. Which group for households is smaller: average family size or average household size?",
+      "output": "average household size",
+      "metadata": {
+        "section_id": "history_1937",
+        "query_id": "cb57aced-90f6-4e11-b442-f40a4de1b0a1",
+        "all_answer_spans": [
+          "average household size"
+        ],
+        "answer_types": [
+          "span"
+        ]
+      }
+    },
+    {
+      "input": "Athanasius had returned to Albania by the summer of 1596 and stayed in Himara. A contemporary source stated that there were 10,000 fighters in red costumes in Himara. The revolt was active in July and August, with initial success, the rebels managing to control the coastal towns. The rebel force being reinforced by a small unit of Spaniards attacked the nearby Ottoman fort of Cerna. The fort was simultaneously attacked from three directions by 1,300 men, of whom only 300 were equipped with arquebuses. Initially a group of 100 Spaniards managed to capture part of the fort raising their flag, killing 80 Ottoman soldiers among whom the commander of the fort. However the Himariotes being confused about this turn of the battle withdrew from the battlefield. This gave the opportunity to the Ottomans to launch a successful counterattack. The revolt was easily suppressed after the Venetians convinced some of the chieftains not to join the rebellion, and the fact that the rebel army was undisciplined. How many months was the revolt active for?",
+      "output": "2",
+      "metadata": {
+        "section_id": "history_677",
+        "query_id": "a08317f3-09ac-41ef-8aa7-902451d942d5",
+        "all_answer_spans": [
+          "2"
+        ],
+        "answer_types": [
+          "number"
+        ]
+      }
+    },
+    {
+      "input": "Coming off their divisional road win over the Rams, the Cardinals went home for a Week 10 NFC West rematch with the San Francisco 49ers on Monday Night Football. In the first quarter, Arizona trailed early as 49ers CB Allen Rossum returned the game's opening kickoff 104 yards for a touchdown. The Cardinals would respond as kicker Neil Rackers got a 28-yard field goal. In the second quarter, San Francisco added onto their lead as QB Shaun Hill completed a 31-yard TD pass to WR Josh Morgan. The Cardinals would answer with QB Kurt Warner completing a 13-yard TD pass to WR Anquan Boldin, along with Rackers getting a 33-yard field goal. The 49ers would close out the half with Hill completing an 18-yard TD pass to TE Vernon Davis. In the third quarter, Arizona crept closer again as Warner completed a five-yard TD pass to WR Larry Fitzgerald, yet San Francisco replied with kicker Joe Nedney getting a 41-yard field goal. In the fourth quarter, the Cardinals took the lead as Rackers nailed a 23-yard field goal, along with Warner hooking up with Boldin again on a five-yard TD pass (with a failed two-point conversion.) The 49ers would mount a late comeback drive, but Arizona made a successful goal-line stand as time ran out. Which Cardinal caught 2 touchdown passes?",
+      "output": "Anquan Boldin",
+      "metadata": {
+        "section_id": "nfl_909",
+        "query_id": "b3454496-ea66-4a55-b13f-226fc0546eb2",
+        "all_answer_spans": [
+          "Anquan Boldin"
+        ],
+        "answer_types": [
+          "span"
+        ]
+      }
+    },
+    {
+      "input": "Still searching for their first win of the year, the Falcons stayed at home for an interconference duel with the Houston Texans, featuring a former teammate in QB Matt Schaub. In the first quarter, Atlanta delivered the first punch with kicker Morten Andersen getting a 28-yard field goal. However, the Texans took the lead with Schaub completing a 35-yard TD pass to WR Andr&#233; Davis. The Falcons regained the lead with QB Joey Harrington completing a 5-yard TD pass to WR Michael Jenkins. In the second quarter, Harrington and Jenkins hooked up with each other again on a 7-yard TD pass. Also, Andersen contributed to Atlanta's cause by kicking a 22-yard field goal. Houston ended the half with kicker Kris Brown getting a 42-yard field goal. In the third quarter, the Texans drew close with Brown kicking a 37-yard field goal. The Falcons responded with Andersen getting a 36-yard field goal. In the fourth quarter, Houston tried to retaliate with Brown kicking a 19-yard field goal. Again, Atlanta answered with Andersen nailing a 46-yard field goal. Afterwards, the Falcons held on to give head coach Bobby Petrino his first NFL victory. With the win, the Falcons snapped a six-game losing skid and improved to 1-3. How many field goals were kicked in the game?",
+      "output": "7",
+      "metadata": {
+        "section_id": "nfl_450",
+        "query_id": "323c6b30-7d16-4668-b9b0-d5041cc6c423",
+        "all_answer_spans": [
+          "7"
+        ],
+        "answer_types": [
+          "number"
+        ]
+      }
+    },
+    {
+      "input": "The clearance of the indigenous forest for the distillation of spirits, tanning and agricultural development began to lead to shortage of wood by the 1680s. The numbers of rats and goats had reached plague proportions by the 1690s, leading to the destruction of food crops and young tree shoots. Neither an increase on duty on the locally produced Arrack (drink) nor a duty on all firewood helped reduce the deforestation whilst attempts to reforest the island by governor John Roberts (1708–1711) were not followed up by his immediate successors. The Great Wood, which once extended from Deadwood Plain to Prosperous Bay Plain, was reported in 1710 as not having a single tree left standing. An early mention of the problems of soil erosion was made in 1718 when a waterspout broke over Sandy Bay, on the southern coast. Against the background of this erosion, several years of drought and the general dependency of St Helena, in 1715 governor Isaac Pyke (1714–1719) made the serious suggestion to the Company that appreciable savings could be made by moving the population to Mauritius, evacuated by the French in 1710. However, with the outbreak of war with other European countries, the Company continued to subsidise the island because of its strategic location. An ordinance was passed in 1731 to preserve the woodlands through the reduction in the goat population. Despite the clear connection between deforestation and the increasing number of floods (in 1732, 1734, 1736, 1747, 1756 and 1787) the East India Company’s Court of Directors gave little support to efforts by governors to eradicate the goat problem. Rats were observed in 1731 building nests in trees two feet across, a visitor in 1717 commenting that the vast number of wild cats preferred to live off young partridges than the rats. An outbreak of plague in 1743 was attributed to the release of infected rats from ships arriving from India. By 1757, soldiers were employed in killing the wild cats. How many years for Isaac Pyke to make serious suggestion to move population to Mauritius?",
+      "output": "5",
+      "metadata": {
+        "section_id": "history_2070",
+        "query_id": "59b47b62-8b7e-40a6-bd4f-06a456f703b0",
+        "all_answer_spans": [
+          "5"
+        ],
+        "answer_types": [
+          "number"
+        ]
+      }
+    },
+    {
+      "input": "Hoping to rebound from their tough road loss to the Cardinals, the Lions went home for a Week 11 intraconference duel with the New York Giants.  In the first quarter, Detroit trailed early as Giants kicker Lawrence Tynes managed to get a 28-yard field goal for the only score of the period. In the second quarter, the Lions continued to trail as QB Eli Manning completed a 10-yard TD pass to RB Brandon Jacobs as the only score. In the third quarter, Detroit managed to get on the board with kicker Jason Hanson getting a 42-yard field goal, but New York responded with Tynes kicking a 46-yard field goal. In the fourth period, the Giants increased their lead with Tynes nailing a 20-yard field goal. The Lions tried to mount a comeback as QB Jon Kitna completed a 35-yard TD pass to WR Calvin Johnson, but New York managed to hold on for the win. how many yards did Tynes kick?",
+      "output": "28",
+      "metadata": {
+        "section_id": "nfl_590",
+        "query_id": "b71dadd8-cb0f-4b94-a508-03f0cdb199ea",
+        "all_answer_spans": [
+          "28"
+        ],
+        "answer_types": [
+          "number"
+        ]
+      }
+    },
+    {
+      "input": "Early evidence for proto-Chinese millet agriculture is Radiocarbon dating to about 7000 BC. The earliest evidence of cultivated rice, found by the Yangtze River, is carbon-dated to 8,000 years ago. Farming gave rise to the Jiahu culture (7000 to 5800 BC). At Damaidi in Ningxia, 3,172 Neolithic signs in China dating to 6000–5000 BC have been discovered, \"featuring 8,453 individual characters such as the sun, moon, stars, gods and scenes of hunting or grazing\". These pictographs are reputed to be similar to the earliest characters confirmed to be written Chinese. Chinese proto-writing existed in Jiahu around 7000 BC, Dadiwan culture from 5800 BC to 5400 BC, Damaidi around 6000 BC and Banpo dating from the 5th millennium BC. Some scholars have suggested that Jiahu symbols (7th millennium BC) were the earliest Chinese writing system. Excavation of a Peiligang culture site in Xinzheng county, Henan, found a community that flourished in 5,500 to 4,900 BC, with evidence of agriculture, constructed buildings, pottery, and burial of the dead. With agriculture came increased population, the ability to store and redistribute crops, and the potential to support specialist craftsmen and administrators. In late Neolithic times, the Yellow River valley began to establish itself as a center of Yangshao culture (5000 BC to 3000 BC), and the first villages were founded; the most archaeologically significant of these was found at Banpo, Xian. Later, Yangshao culture was superseded by the Longshan culture, which was also centered on the Yellow River from about 3000 BC to 2000 BC. How many years did Chinese proto-writing exist in the Dadiwan culture?",
+      "output": "400",
+      "metadata": {
+        "section_id": "history_2220",
+        "query_id": "157556c0-a0dc-4525-853d-6f4ce3df13d1",
+        "all_answer_spans": [
+          "400"
+        ],
+        "answer_types": [
+          "number"
+        ]
+      }
+    },
+    {
+      "input": "Income inequality has become a hotly debated topic globally. According to the CIA World Factbook, U.S. income inequality ranked 41st highest among 156 countries in 2017 (i.e., 74% of countries have a more equal income distribution). According to the Congressional Budget Office, the top 1% of income households earned about a 9% share of the pre-tax income in 1979, versus 19% in 2007 and 17% in 2014. For after-tax income, these figures were 7%, 17%, and 13%, respectively. These figures indicate the share of income earned by top earners more than doubled between 1979 and 2007, then fell somewhat following the Great Recession, and the higher tax rates and re-distributive policies applied by President Barack Obama in 2013 (i.e., expiration of the Bush Tax Cuts for the top 1% and subsidies for lower income persons via the Affordable Care Act). Recasting the 2012 income using the 1979 income distribution (representing the more egalitarian 1950-1980 period), the bottom 99% of families would have averaged about $7,100 more income. Income inequality in the United States has grown from 2005 to 2012 in more than 2 out of 3 metropolitan areas. How many years has the income inequality grown 2005-2012 the United U.S in 2 to 3 metropolitan areas?",
+      "output": "7",
+      "metadata": {
+        "section_id": "history_2103",
+        "query_id": "f637de05-1e0a-41c1-9ed0-b53a847a366f",
+        "all_answer_spans": [
+          "7"
+        ],
+        "answer_types": [
+          "number"
+        ]
+      }
+    },
+    {
+      "input": "The Battle of Stiklestad  in 1030 is one of the most famous battles in the history of Norway. In this battle, King Olaf II of Norway  was killed. During the pontificate of Pope Alexander III, the Roman Catholic Church  declared Olaf a saint in 1164. His younger half-brother, Harald Hardrada, was also present at the battle. Harald was only fifteen when the battle of Stiklestad took place. He became King of Norway in 1047, only to die in a failed invasion of England at the Battle of Stamford Bridge in 1066. The authenticity of the battle as a historical event is subject to question. Contemporary sources say the king was murdered. According to the Anglo Saxon Chronicle of 1030, Olaf was killed by his own people. Adam of Bremen wrote in 1070 that Olaf was killed in an ambush, and so did Florence of Worcester in 1100. Those are the only contemporary sources that mention the death of the king. After the king's canonization it was felt that the saint could not have died in such circumstances.  The story of the Battle of Stiklestad as we know it gradually developed during the two centuries following the death of King Olaf. Saint Olaf must have fallen in a major battle for Christianity. How many years after Olaf was killed did Adam of Bremen write that he was killed in an ambush?",
+      "output": "40",
+      "metadata": {
+        "section_id": "history_233",
+        "query_id": "f2749c6e-a619-454c-a9a8-745865689992",
+        "all_answer_spans": [
+          "40"
+        ],
+        "answer_types": [
+          "number"
+        ]
+      }
+    },
+    {
+      "input": "Hoping to break a two-game losing streak, the Broncos traveled to Arrowhead Stadium for a AFC West rivalry rematch against the Kansas City Chiefs. The Broncos trailed in the first quarter, as Chiefs' quarterback Matt Cassel threw a 2-yard touchdown pass to tight end Leonard Pope, in what would be the game's only touchdown. The Broncos responded in the second quarter, with placekicker Matt Prater nailing a 25-yard field goal, but the Chiefs countered, with a 47-yard field goal by placekicker Ryan Succop just before halftime. After a scoreless third quarter, the Broncos cut into the lead with a 41-yard field goal by Prater, but Kansas City's defense prevented anything else from happening. With the loss, not only were the Broncos officially eliminated from postseason contention, but they also exceeded their loss total from their previous two seasons. Were there more field goals kicked in the first half or second half?",
+      "output": "first half",
+      "metadata": {
+        "section_id": "nfl_1839",
+        "query_id": "ec5bd879-3c80-4130-adb0-9bc3aa61cd06",
+        "all_answer_spans": [
+          "first half"
+        ],
+        "answer_types": [
+          "span"
+        ]
+      }
+    },
+    {
+      "input": "After a tough road loss to the Ravens, the Steelers went home for a game against the Dolphins.  They would score first as Ben Roethlisberger found Emmanuel Sanders on a 5-yard pass for a 7-0 lead.  The Dolphins managed to get on the board as Caleb Sturgis kicked a 30-yard field goal making the score 7-3.  In the 2nd quarter, Charles Clay caught a 6-yard touchdown pass from Ryan Tannehill as the Phins took the lead 10-7 at halftime.  After the break, the Dolphins went right back to work as Daniel Thomas ran for a 4-yard touchdown making the score 17-7.  The Steelers then came within 3 when Roethlisberger found Antonio Brown on a 43-yard touchdown pass making the score 17-14 and would eventually score again when Troy Polamalu picked off Tannehill and returned it 19 yards for a touchdown as they retook the lead 21-17.  The Dolphins however moved back into the lead as Tannehill found Brian Hartline on a 4-yard pass for a 24-21 score.  In the 4th quarter, Roethlisberger found Jerricho Cotchery on a 16-yard touchdown pass as they moved ahead 28-24.  Clay then caught a pass from Tannehill making the score 31-28 as the Dolphins retook the lead.  They would stop scoring after Sturgis kicked a 27-yard field goal for a 34-28 lead.  Under a minute to go in the quarter, the Steelers got the ball back with Roethlisberger throwing to Brown and then Brown running for what seemed to be the game-tying (and eventually game-winning touchdown and PAT), but officials reviewed the play and it was determined that Brown had stepped out of bounds during the run ending the game dropping the team to 5-8. How many field goals of at least 25 yards were made?",
+      "output": "2",
+      "metadata": {
+        "section_id": "nfl_2657",
+        "query_id": "7ca577bb-854b-4d99-b502-d6b999c7d6c6",
+        "all_answer_spans": [
+          "2"
+        ],
+        "answer_types": [
+          "number"
+        ]
+      }
+    },
+    {
+      "input": "In 2000, there were 149,957 households out of which 18.30% had children under the age of 18 living with them, 52.70% were Marriage living together, 7.70% had a female householder with no husband present, and 37.00% were non-families. 30.40% of all households were made up of individuals and 16.90% had someone living alone who was 65 years of age or older.  The average household size was 2.13 and the average family size was 2.61. How many in percent of households weren't made up of individuals?",
+      "output": "69.6",
+      "metadata": {
+        "section_id": "history_1937",
+        "query_id": "c5c46c37-059b-4c6a-8555-6086ba02aa14",
+        "all_answer_spans": [
+          "69.6"
+        ],
+        "answer_types": [
+          "number"
+        ]
+      }
+    },
+    {
+      "input": "In 2000, the band played 47 songs. In 2002, they increased the set list to 59 songs. In 2004, 311 played 68 songs. The band played entire albums, rarities and covers. Later that year, a DVD was released of the performance that contained 64 of the 68 songs. 311 Day in 2006 was held at the Mid-South Coliseum in Memphis, Tennessee, where the band played 65 songs. The intended set list was cut short from 69 songs because of a strict midnight curfew. The band recorded the entire show in high-definition television,and a 2-hour edit of the show aired on high-definition television on December 10. In 2008, 311 Day was held in the New Orleans Arena in New Orleans, Louisiana. Over three separate sets, the band played 63 songs to a sold-out crowd of 14,000 fans, who represented all 50 states and 13 countries. In 2010, 311 Day took place at the Mandalay Bay Events Center in Las Vegas Valley. All 60 songs, 32 of which were different from 311 Day in 2008, were broadcast live on the web in a video on demand format described as a \"professional multi-camera HD production.\" In 2012, 311 Day took place at the MGM Grand Garden Arena in Las Vegas and, for the first time, was split into two days. The band performed 79 songs during the two-day concert. On July 3, 2013, the band announced at the Unity Tour show in Chicago that 311 Day 2014 would be returning to New Orleans. 311 Day 2016 took place in New Orleans, at the Smoothie King Center (New Orleans Arena) on 3/11/2016 & 3/12/2016. 311 Day 2018 took place on 3/10 and 3/11 in Las Vegas at the Park Theatre at the Monte Carlo Resort & Casino. 86 songs were played, including a cover of Pink Floyds \"Wish You Were Here\" with a In Memoriam video tribute to late musicians and 311 fans Renee ONeal, Meredith Hight, and Nick Hexums youngest brother Patrick. How many more songs did the the band play in 2002 than in 2000?",
+      "output": "12",
+      "metadata": {
+        "section_id": "history_3392",
+        "query_id": "c3a0e39c-8bec-4198-ad2f-ce16a3582f92",
+        "all_answer_spans": [
+          "12"
+        ],
+        "answer_types": [
+          "number"
+        ]
+      }
+    },
+    {
+      "input": "Julian Scherner was born on September 23, 1895 in the town of Bagamoyo in German East Africa, where he lived until the age of two. Scherner attended the cadet schools, Kadettenanstalt, Karlsruhe between October 1, 1905 and 1911 and Berlin-Lichterfield between 1911 and 1914. Scherner was enlisted in the infantrie rgt. 114 between March 15, 1912 and August 10, 1914. During this time, Scherner earned the rank of Fähnrich in April 1914 and received officer rank on August 5, 1914. In 1914, he joined the Reichsheer or Imperial army. Scherner served in World War 1 as a Zugführer (military), Kompanieführer, company commander and platoon leader. Scherner was injured by shell splinters and rifle fire in the ankle and head respectively and was hospitalized between 1914-1915. After Scherner was released from the hospital, in 1915, he returned to his military unit but was captured by the French in May 1915. Scherner was honored with the Iron Cross second class and the Wound Badge in black and subsequently discharged from the military on March 30, 1920 with the rank of Oberleutnant. How many years passed between Scherner's enlistment and his discharge?",
+      "output": "8",
+      "metadata": {
+        "section_id": "history_4102",
+        "query_id": "4050285e-f784-4fb6-96e1-d9717342bcb6",
+        "all_answer_spans": [
+          "8"
+        ],
+        "answer_types": [
+          "number"
+        ]
+      }
+    },
+    {
+      "input": "Although the Bears now trailed the Packers in the all-time series, they were the five-point favorite against Green Bay among bookkeepers for the first time since week sixteen of 2008. The odds had been influenced by Aaron Rodgers' season-ending collarbone injury in October along with backup quarterback Brett Hundley's struggles in the previous week's 30-17 loss to the Lions. Although the Bears had not defeated the Packers at home since 2010, the Packers were 2-3 since the two teams' last meeting in week four, while Green Bay head coach Mike McCarthy was 1-3 against the Bears without Rodgers. Jeff Joniak described his ideal Bears offensive gameplan as \"laying a clean game\" to avoid swinging the \"tempo or momentum in favor of a team that's on a three-game losing streak.\" To do this, Mitchell Trubisky would have to avoid getting sacked, while the running game would have to reduce its runs resulting in negative yardage. Through the air, the Bears remained an unknown entity due to a lack of available film on Trubisky and receivers Markus Wheaton and Dontrelle Inman, the latter making his Bears debut in week ten after being traded to the team in late October. On defense, Joniak wrote the unit needed to prevent Hundley from developing his accuracy, especially as the Chicago defense was excelling in preventing touchdowns, along with containing running back Ty Montgomery, who recorded 162 rushing yards on 16 carries against the Bears in week sixteen last year. In a game that ChicagoBears.com writer Larry Mayer described as having \" to an early-season trend, the Bears shot themselves in the foot repeatedly,\" Chicago struggled with penalties during the game as the team committed seven in the first half. The Bears punted on the first drive, which led to an exchanging of field goals on Mason Crosby's 40- and Connor Barth's 45-yard kicks. Three drives later, in the second quarter, Montgomery scored on a 37-yard touchdown run to give the Packers the lead. On the next drive, Trubisky threw a screen pass to Benny Cunningham, who ran to the Packers' goal line and dived for the pylon. His knee landed out of bounds and the play was ruled as such at the two-yard line, which the Bears challenged with the belief that the ball had reached the pylon before he went out; instead, the challenge went against the Bears when it was determined he had lost the ball before it had touched the pylon, resulting in a touchback and possession being granted to the Packers. Chicago eventually added three more points on Barth's 44-yard field goal as time expired in the first half. Crosby kicked a 24-yard field goal on the first drive of the second half, which was followed by one from 50 yards in the fourth quarter. The Bears ended their touchdown-scoring troubles (scoring just one touchdown in 35 drives across the previous four games) when Trubisky threw a 46-yard touchdown pass to Josh Bellamy, who escaped Davon House for the score. However, the Packers responded with a 75-yard drive that ended with Hundley's 19-yard touchdown pass to Davante Adams. Barth added a 49-yard field goal to draw the Bears within a touchdown, and remained in contention when Crosby missed a 35-yarder wide right with 1:02 left in the game. After completing an 11-yard pass to Kendall Wright, Trubisky's next three passes were incomplete. On fourth-and-ten, Trubisky passed to Cunningham for five yards, who lateraled to Hroniss Grasu and ran two yards before he was tackled for a turnover on downs. How many yards was the longest touchdown run?",
+      "output": "37",
+      "metadata": {
+        "section_id": "nfl_3271",
+        "query_id": "54d9dc57-4683-4b18-8ef7-64165582210a",
+        "all_answer_spans": [
+          "37"
+        ],
+        "answer_types": [
+          "number"
+        ]
+      }
+    },
+    {
+      "input": "Coming off their road win over the Giants, the Vikings went home for a Week 13 divisional rematch with the Detroit Lions. In the first quarter, Minnesota scored first as RB Chester Taylor completed a 2-yard TD run. The Lions would reply with kicker Jason Hanson hitting a 37-yard field goal. In the second quarter, Minnesota answered with rookie RB Adrian Peterson getting a 16-yard TD run. Detroit would respond with QB Jon Kitna completing a 1-yard TD pass to TE/FB Casey Fitzsimmons. Afterwards, the Vikings immediately scored with rookie WR Aundrae Allison returning a kickoff 103 yards for a touchdown (a franchise best), while QB Tarvaris Jackson completing a 6-yard TD pass to WR Bobby Wade and a 2-yard TD pass to WR Sidney Rice. In the third quarter, Peterson added a 13-yard TD run. This was the first time since their 15-1 season of 1998 that they were able to get 40+ points in back-to-back games. In which quarter did Peterson travel the most yards in a touchdown run?",
+      "output": "second",
+      "metadata": {
+        "section_id": "nfl_684",
+        "query_id": "cd378fdf-2262-43a0-b636-27ed4116c692",
+        "all_answer_spans": [
+          "second"
+        ],
+        "answer_types": [
+          "span"
+        ]
+      }
+    },
+    {
+      "input": "Coming off their divisional home win over the Packers, the Vikings flew to Raymond James Stadium for a Week 11 duel with the Tampa Bay Buccaneers. In the first quarter, the Vikings struck first as kicker Ryan Longwell got a 43-yard field goal. The Buccaneers responded with kicker Matt Bryant getting a 39-yard field goal. In the second quarter, Minnesota answered with QB Gus Frerotte completing a 4-yard TD pass to WR Bobby Wade. Tampa Bay would reply with Bryant making a 26-yard field goal. The Vikings closed out the half with Longwell getting a 26-yard field goal. In the third quarter, the Buccaneers tied the game with FB B. J. Askew getting a 1-yard TD run. In the fourth quarter, Tampa Bay took the lead as Bryant nailed a 29-yard and a 26-yard field goal. Minnesota tried to rally, but the Buccaneers' defense was too much to overcome. How many more field goals were scored during the first half compared to the second half?",
+      "output": "2",
+      "metadata": {
+        "section_id": "nfl_1120",
+        "query_id": "69d0659b-202a-43bc-96de-4d2d5888b5b0",
+        "all_answer_spans": [
+          "2"
+        ],
+        "answer_types": [
+          "number"
+        ]
+      }
+    },
+    {
+      "input": "In 2011, Macaus free-market economy produced total exports of US$1.119 billion (MOP 8.94 billion) and consisted mainly of clothing, textiles, footwear, toys, electronics, machinery and parts. Total imports for the same period reached US$8.926 billion (MOP 71.32 billion), and consisted mostly of raw materials and semi-manufactured goods, consumer goods (foodstuffs, beverages, tobacco), capital goods, mineral fuels and oils. Macaus primary export partner in 2011 was Hong Kong (44.6%). Other exports go to Mainland China (15.9%) and United States (7.9%). Macau import partners are Mainland China (30.4%), Hong Kong (12%), France (10.4%), Switzerland (7.5%), Italy (7.5%), Japan (6.2%), and United States (6.1%). Where does Macau import more products from, Hong Kong or France?",
+      "output": "France",
+      "metadata": {
+        "section_id": "history_2280",
+        "query_id": "e54f3461-1bc1-45ac-aeda-437eed766532",
+        "all_answer_spans": [
+          "France"
+        ],
+        "answer_types": [
+          "span"
+        ]
+      }
+    },
+    {
+      "input": "During the 2008/09 school year there were 1,502,257 students in the entire Swiss educational system. In kindergarten or pre-school, there were 152,919 students (48.6% female). These students were taught by 13,592 teachers (96.0% female) in 4,949 schools, of which 301 were private schools. There were 777,394 students (48.6% female) in the obligatory schools, which include primary and lower secondary schools. These students were taught by 74,501 teachers (66.3% female) in 6,083 schools, of which 614 were private. The upper secondary school system had 337,145 students (46.9% female). They were taught by 13,900 teachers (42.3% female) in 730 schools, of which 240 were private. The tertiary education system had 234,799 students (49.7% female). They were taught by 37,546 teachers (32.8% female) in 367 schools. How many of the schools were not private?",
+      "output": "10974",
+      "metadata": {
+        "section_id": "history_2316",
+        "query_id": "10931dd7-8e90-47c3-a844-d3b7653847c2",
+        "all_answer_spans": [
+          "10974"
+        ],
+        "answer_types": [
+          "number"
+        ]
+      }
+    }
+  ],
+  "label_list": [],
+  "answer_extract_pattern": "",
+  "num_few_shots": null,
+  "answer_pattern_id": "answer_tags_en",
+  "language": "en",
+  "custom_prompt_template": null
+}

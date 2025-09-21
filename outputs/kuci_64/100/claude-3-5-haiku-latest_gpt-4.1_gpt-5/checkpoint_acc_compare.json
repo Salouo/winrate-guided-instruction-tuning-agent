@@ -1,0 +1,23 @@
+{
+  "dataset": "kuci",
+  "executor_vendor": "anthropic",
+  "executor_model": "claude-3-5-haiku-latest",
+  "scorer_vendor": "openai",
+  "scorer_model": "gpt-4.1",
+  "optimizer_model": "gpt-5",
+  "batch_size": 64,
+  "metric": "em",
+  "baseline_instruction": "[文脈と選択肢を入力として受け取り、選択肢から文脈の後に続く文として最も適切なものを選択してください。なお、回答は選択肢の番号（例：0）でするものとします。]",
+  "best_instruction": "[タスク: 文脈の直後に最も自然に続き、意味が最も合致する候補を「選択肢: 0..n」から1つ選び、そのラベル番号のみ（半角整数）を出力する]",
+  "baseline": {
+    "correct": 81,
+    "total": 10291,
+    "acc": 0.00787095520357594
+  },
+  "candidate": {
+    "correct": 7310,
+    "total": 10291,
+    "acc": 0.7103294140511126
+  },
+  "delta_acc": 0.7024584588475367
+}

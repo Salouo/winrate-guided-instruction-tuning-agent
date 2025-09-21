@@ -1,0 +1,23 @@
+{
+  "dataset": "gsm8k",
+  "executor_vendor": "anthropic",
+  "executor_model": "claude-3-5-haiku-latest",
+  "scorer_vendor": "openai",
+  "scorer_model": "gpt-4.1",
+  "optimizer_model": "gpt-5",
+  "batch_size": 64,
+  "metric": "math_em",
+  "baseline_instruction": "[Solve the given question. Return answer only.]",
+  "best_instruction": "[Solve the given question. Return number only.]",
+  "baseline": {
+    "correct": 1216,
+    "total": 1319,
+    "acc": 0.9219105382865808
+  },
+  "candidate": {
+    "correct": 1246,
+    "total": 1319,
+    "acc": 0.9446550416982562
+  },
+  "delta_acc": 0.022744503411675443
+}

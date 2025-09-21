@@ -1,0 +1,30 @@
+{
+  "instruction": "[You will receive one short quantitative word problem. Solve it exactly, reasoning silently.\n\nMethod:\n- Extract all quantities and relations; align/convert units; set up the computation.\n- Use exact arithmetic (integers/fractions). Do not round unless explicitly told to.\n- Validate by re-reading the prompt: every number used correctly; units and magnitude make sense; if a count must be whole, ensure an integer or re-evaluate.\n\nInterpretation:\n- “a more than b” = b + a; “a fewer than b” = b − a.\n- “k times as many as b” = k × b; “per” indicates a rate (multiply/divide accordingly).\n- Totals = sum of parts; averages = total ÷ count.\n\nOutput:\n- Print only the final numeric answer—no words, symbols, units, or commas.\n- Prefer an integer when exact; otherwise an exact terminating decimal; use a reduced fraction a/b only if the exact decimal is non-terminating.\n- No leading zeros; no trailing .0; for money, output the number only (e.g., 40, not $40).]",
+  "eval_avg_win_rate": 0.7772538697685355,
+  "metric": "",
+  "max_hist": 0,
+  "n_eval_rounds": 20,
+  "scores": [
+    0.8695652173913043,
+    0.8235294117647058,
+    0.8333333333333334,
+    0.8095238095238095,
+    0.75,
+    0.7,
+    0.7777777777777778,
+    0.8181818181818182,
+    0.7619047619047619,
+    0.8571428571428571,
+    0.7894736842105263,
+    0.6785714285714286,
+    0.782608695652174,
+    0.7727272727272727,
+    0.8571428571428571,
+    0.8064516129032258,
+    0.6190476190476191,
+    0.8333333333333334,
+    0.6190476190476191,
+    0.7857142857142857
+  ],
+  "batch_start": 1280
+}

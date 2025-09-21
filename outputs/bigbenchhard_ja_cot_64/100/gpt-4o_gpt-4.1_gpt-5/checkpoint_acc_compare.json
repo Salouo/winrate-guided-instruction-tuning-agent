@@ -1,0 +1,23 @@
+{
+  "dataset": "bigbenchhard_ja_cot",
+  "executor_vendor": "openai",
+  "executor_model": "gpt-4o",
+  "scorer_vendor": "openai",
+  "scorer_model": "gpt-4.1",
+  "optimizer_model": "gpt-5",
+  "batch_size": 64,
+  "metric": "em",
+  "baseline_instruction": "[最終解答のみを返し、説明は書かないでください。解答形式は以下の例の形式に従ってください。]",
+  "best_instruction": "[内部で推論して解答し、出力は答えのみ。形式: 1) 選択肢が(A),(B),(C)…なら正解1つを「(A)」で出力。2) 妥当性/真偽の二択は英字で\"yes\"または\"no\"のみ（小文字）。余分な語句・説明・改行・空白は一切出さない。]",
+  "baseline": {
+    "correct": 115,
+    "total": 1303,
+    "acc": 0.08825786646201074
+  },
+  "candidate": {
+    "correct": 815,
+    "total": 1303,
+    "acc": 0.6254796623177283
+  },
+  "delta_acc": 0.5372217958557176
+}

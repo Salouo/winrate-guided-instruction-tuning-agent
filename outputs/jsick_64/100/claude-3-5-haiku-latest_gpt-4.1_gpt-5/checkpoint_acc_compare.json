@@ -1,0 +1,23 @@
+{
+  "dataset": "jsick",
+  "executor_vendor": "anthropic",
+  "executor_model": "claude-3-5-haiku-latest",
+  "scorer_vendor": "openai",
+  "scorer_model": "gpt-4.1",
+  "optimizer_model": "gpt-5",
+  "batch_size": 64,
+  "metric": "em",
+  "baseline_instruction": "[前提と仮説の関係をentailment、contradiction、neutralの中から回答してください。\n\n制約：\n- 前提が真であるとき仮説が必ず真になる場合はentailmentと出力\n- 前提が真であるとき仮説が必ず偽になる場合はcontradictionと出力\n- そのいずれでもない場合はneutralと出力]",
+  "best_instruction": "[前提と仮説の関係を判定せよ。入力は「前提：...」「仮説：...」の2文。出力は entailment / contradiction / neutral のいずれか1語のみ（半角小文字、前後の空白・改行や他の語句・句読点は禁止）。判定手順（優先順）：1) 同時に真になり得ないなら contradiction（否定・数量・比較「一人も」「全て」「少なくとも」「より多い/少ない」「ちょうど」等に注意）。2) 前提が仮説を必然的に真にするなら entailment（言い換え・包含関係は可）。ただし仮説が前提に新たな条件や詳細を付加しているだけなら entailment にはしない。3) それ以外は neutral（前提にない事実の推測や常識補完はしない）。]",
+  "baseline": {
+    "correct": 0,
+    "total": 4927,
+    "acc": 0.0
+  },
+  "candidate": {
+    "correct": 3782,
+    "total": 4927,
+    "acc": 0.767607063121575
+  },
+  "delta_acc": 0.767607063121575
+}

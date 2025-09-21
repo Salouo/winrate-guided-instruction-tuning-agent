@@ -1,0 +1,21 @@
+[project]
+name = "aite_fy2025_intern_auto_prompt_tuning"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "anthropic>=0.64.0",
+    "argparse>=1.4.0",
+    "dotenv>=0.9.9",
+    "google-cloud-aiplatform>=1.111.0",
+    "google-genai>=1.32.0",
+    "langgraph>=0.6.6",
+    "matplotlib>=3.10.5",
+    "openai>=1.102.0",
+    "pathlib>=1.0.1",
+    "regex>=2025.9.1",
+    "scikit-learn>=1.7.1",
+    "tenacity>=9.1.2",
+]
+
+[tool.mypy]
+check_untyped_defs = true

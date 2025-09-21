@@ -1,0 +1,23 @@
+{
+  "dataset": "jsick",
+  "executor_vendor": "openai",
+  "executor_model": "gpt-4o",
+  "scorer_vendor": "openai",
+  "scorer_model": "gpt-4.1",
+  "optimizer_model": "gpt-5",
+  "batch_size": 64,
+  "metric": "em",
+  "baseline_instruction": "[前提と仮説の関係をentailment、contradiction、neutralの中から回答してください。\n\n制約：\n- 前提が真であるとき仮説が必ず真になる場合はentailmentと出力\n- 前提が真であるとき仮説が必ず偽になる場合はcontradictionと出力\n- そのいずれでもない場合はneutralと出力]",
+  "best_instruction": "[タスク\n- 入力は2行（1行目「前提: …」／2行目「仮説: …」）。この2行だけを根拠に関係を判定する。\n\n使用範囲\n- 根拠は前提に明示された内容とその論理的帰結のみ。外部知識・常識・推量は使わない。\n- 同一視は明示一致のみ（主体・時・場所・集合・代名詞）。一致が不明なら同一視しない。\n\n決定フロー（上から一度だけ適用）\n1) contradiction（同一範囲に限る）\n   - 明確な否定の衝突（〜する／しない）\n   - 0と非0（いる／いない）\n   - 同一範囲の数量矛盾（数の食い違い、全員〜 vs 誰も〜ない）\n   - 相互排他的状態\n2) entailment\n   - 前提が真なら仮説も必ず真\n   - 許可する弱化のみ: 言い換え・同義／上位包含（犬→動物）／数量の下方包含（全員→少なくとも1人、n以上→m以上〈m≤n〉、ちょうどn→少なくともn）\n   - 不可: 仮説の具体化（属性追加・より厳しい数量・下位概念化・主体/時/場所の特定）や上限・等号の導出\n3) neutral\n   - 上記以外（同一性や範囲が不明、背景知識依存、可能性・比較基準不明、上位/下位が逆〈動物→犬〉など）\n   - 迷う／確定できない場合も neutral\n\n出力\n- 小文字ラベル1語（entailment／contradiction／neutral）のみ。前後の空白・記号・改行なし。\n\n検証／自己チェック\n- 最終出力を小文字化し前後の空白を除去。\n- 上記3語のいずれでもなければ neutral に置き換える。]",
+  "baseline": {
+    "correct": 3454,
+    "total": 4927,
+    "acc": 0.7010351126446114
+  },
+  "candidate": {
+    "correct": 4148,
+    "total": 4927,
+    "acc": 0.8418916176172113
+  },
+  "delta_acc": 0.14085650497259994
+}
