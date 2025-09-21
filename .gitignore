@@ -205,3 +205,57 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Secrets and credentials (strongly recommended)
+*.env
+**/*.env
+.env.*
+*.local
+*.secret
+*.secrets.*
+secrets.*
+*.key
+*.pem
+*.p12
+*.pfx
+*.crt
+*.jks
+*.keystore
+*.asc
+*.gpg
+
+# Large ML/data artifacts (optional)
+*.faiss
+*.hnsw
+*.ann
+*.npy
+*.npz
+*.pkl
+*.pickle
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.safetensors
+wandb/
+lightning_logs/
+tensorboard/
+runs/
+mlruns/
+# data/           # uncomment if you keep raw data locally
+# outputs/        # uncomment if you keep generated outputs locally
+
+# Notebook caches and exports
+*.nbconvert.ipynb
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Visual Studio Code (optional)
+.vscode/
+
+# Docker Compose local overrides (optional)
+docker-compose.override.yml
+.env.docker
