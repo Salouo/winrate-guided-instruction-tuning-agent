@@ -11,16 +11,13 @@ You can mix and match models from multiple vendors for instruction optimization�
 In a typical assistant-user interaction, the prompt is composed of an **instruction** and a **user question**. This project optimizes the **instruction** component to improve the model’s problem-solving accuracy.
 
 ### Method
-**Auto-Prompt-Tuning Agent** is composed of 3 unit agents:
+**Winrate-Guided-Instruction-Tuning-Agent** is composed of 3 unit agents:
 
 - *Task Executor:* answers the questions.
 - *Scorer:* evaluates the TaskExecutor’s answers.
 - *Instruction Optimizer:* observes the <instruction, win rate> trajectory and updates the instruction accordingly.
 
 The Instruction Optimizer act as an optimizer to adjust the instruction iteratively based on the observed trajectory and returns the current baseline (the most competitive one) instruction at the end of the iteration. 
-
-### Project Duration
-2025.8.18 - 2025.9.19  
 
 <br>
 
