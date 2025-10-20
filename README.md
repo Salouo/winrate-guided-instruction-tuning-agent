@@ -265,9 +265,9 @@ uv run python -m src.eval \
    Dataset used for evaluation (split expected under `./datasets/test`). **Please choose the same dataset as in training.**（e.g., `bigbenchhard_ja_direct`）
 
 - `--concurrency`
-   Max in-flight async calls（default: `8`）
+   Max in-flight async calls（default: 8）
 
-**ALL the evaluation results will be saved in `./outputs`.**
+ALL the evaluation results will be saved in *\'./outputs\'*.
 
 
 
@@ -286,7 +286,9 @@ uv run -m src.eval_acc \
   --concurrency 8
 ```
 
-`eval_acc.py` will load the datasets in *datasets/test* and load the instruction you want to evaluate in *outputs/\<dataset_name\>\_\<batch_size\>\_\<length of given history\>\_\<your\_model\_settings>*. The results will be saved in the same directory.
+`eval_acc.py` will load the datasets in *\'datasets/test\'* and load the instruction you want to evaluate in *\'outputs/\<dataset_name\>\_\<batch_size\>\_\<length of given history\>\_\<your\_model\_settings>\'*. 
+
+The results will be saved in the same directory.
 
 <br>
 
