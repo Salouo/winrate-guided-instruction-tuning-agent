@@ -5,7 +5,7 @@
 ## ✨ Project Overview
 This project develops an agent that searches for the best instruction to improve an LLM’s accuracy across different tasks (see datasets list below).  
 
-You can mix and match models from multiple vendors for instruction optimization—including **OpenAI (GPT)**, **Google (Gemini)**, and **Anthropic (Claude)**—and set vendors/models independently for the **executor**, **scorer**, and **optimizer**.
+You can mix and match models from multiple vendors for instruction optimization—including **OpenAI (GPT)**, **Google (Gemini)**, and **Anthropic (Claude)**—and set vendors/models independently for the **executor**, **judge**, and **optimizer**.
 
 ### Purpose
 In a typical assistant-user interaction, the prompt is composed of an **instruction** and a **user question**. This project optimizes the **instruction** component to improve the model’s problem-solving accuracy.
