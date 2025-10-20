@@ -318,16 +318,17 @@ Evaluations are run with **GPT-4o** and **Claude 3.5 Haiku** across five benchma
 *“—” indicates the optimized instruction was not applied for that model–dataset pair.*
 
 ### Instruction Optimization Examples
+Below are side-by-side examples of baseline vs. optimized instructions used in our experiments.
 
----
 
-### GSM8K
-**Baseline (EN)**
+**GSM8K**
+
+*Baseline (EN)*
 ~~~text
 Solve the given question. Return number only.
 ~~~
 
-**Optimized (EN)**
+*Optimized (EN)*
 ~~~text
 Accurately extract the quantitative relations in the word problem (sum, difference, multiple, ratio, “per-one”), and perform any necessary unit conversions.
 First, identify exactly one final quantity requested by the question and compute only that quantity.
@@ -344,8 +345,9 @@ Output exactly one non-negative integer, with no units, symbols, commas, spaces,
 
 ---
 
-### JSick
-**Baseline（JA）**
+**JSick**
+
+*Baseline（JA）*
 ~~~text
 前提と仮説の関係をentailment、contradiction、neutralの中から回答してください。
 
@@ -355,7 +357,7 @@ Output exactly one non-negative integer, with no units, symbols, commas, spaces,
 - そのいずれでもない場合はneutralと出力
 ~~~
 
-**Optimized（JA）**
+*Optimized（JA）*
 ~~~text
 前提と仮説の関係を判定せよ。入力は「前提：...」「仮説：...」の2文。出力は entailment / contradiction / neutral のいずれか1語のみ（半角小文字、前後の空白・改行や他の語句・句読点は禁止）。
 判定手順（優先順）：
@@ -366,14 +368,15 @@ Output exactly one non-negative integer, with no units, symbols, commas, spaces,
 
 ---
 
-### KUCI
-**Baseline（JA）**
+**KUCI**
+
+*Baseline（JA）*
 ~~~text
 文脈と選択肢を入力として受け取り、選択肢から文脈の後に続く文として最も適切なものを選択してください。
 なお、回答は選択肢の番号（例：0）でするものとします。
 ~~~
 
-**Optimized（JA）**
+*Optimized（JA）*
 ~~~text
 目的
 - 文脈に最も自然に続き、S=文脈+候補 が完結するものの番号（0–9）を半角1字で返す。勝率下限を上げる。
