@@ -1,12 +1,11 @@
-# Auto Prompt Tuning
+# Winrate-Guided-Instruction-Tuning-Agent
 ![python versions](https://img.shields.io/badge/python-3.12%20%7C%203.13-blue)
 [![uv](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/uv/main/assets/badge/v0.json)](https://github.com/astral-sh/uv)
-## consulting_{auto-prompt-tuning}
 
-## Project Overview
+## ✨ Project Overview
 This project develops a **Auto-Prompt-Tuning Agent** that searches for the best instruction to improve an LLM’s accuracy across different tasks (see datasets list below).  
 
-You can mix and match models from multiple vendors for instruction optimization—including **OpenAI**, **Google (Gemini)**, and **Anthropic (Claude)**—and set vendors/models independently for the **executor**, **scorer**, and **optimizer**.
+You can mix and match models from multiple vendors for instruction optimization—including **OpenAI (GPT)**, **Google (Gemini)**, and **Anthropic (Claude)**—and set vendors/models independently for the **executor**, **scorer**, and **optimizer**.
 
 ### Purpose
 In a typical assistant-user interaction, the prompt is composed of an **instruction** and a **user question**. This project optimizes the **instruction** component to improve the model’s problem-solving accuracy.
@@ -21,9 +20,11 @@ In a typical assistant-user interaction, the prompt is composed of an **instruct
 The Instruction Optimizer act as an optimizer to adjust the instruction iteratively based on the observed trajectory and returns the current baseline (the most competitive one) instruction at the end of the iteration. 
 
 ### Project Duration
-2025.8.18 - 2025.9.19
+2025.8.18 - 2025.9.19  
 
-## Environment
+<br>
+
+## ⚙️ Environment
 This project assumes it will be set up in a virtual environment created by `uv`.
 
 | Language / Framework  | Version |
@@ -44,7 +45,9 @@ This project assumes it will be set up in a virtual environment created by `uv`.
 
 For versions of other packages, please refer to `pyproject.toml`.
 
-## Directory Structure
+<br>
+
+## 📁 Directory Structure
 ```
 .
 ├── cmds
@@ -76,7 +79,9 @@ For versions of other packages, please refer to `pyproject.toml`.
 └── uv.lock
 ```
 
-## How to Run
+<br>
+
+## 🚀 How to Run
 ### Dataset pre-process
 Use `train_test_split.py` to split raw datasets into training set and test set, which will be saved in *./datasets/trian* and *./datasets/test*.
 
@@ -286,7 +291,32 @@ uv run -m src.eval_acc \
 
 `eval_acc.py` will load the datasets in *datasets/test* and load the instruction you want to evaluate in *outputs/\<dataset_name\>\_\<batch_size\>\_\<length of given history\>\_\<your\_model\_settings>*. The results will be saved in the same directory.
 
+<br>
 
+## 📈 Reference Results
+
+We report **Exact Match (EM, %)** on each dataset using (1) the dataset’s **baseline instruction** and (2) our **optimized instruction** produced by this project.  
+
+
+Evaluations are run with **GPT-4o** and **Claude 3.5 Haiku** across five benchmarks: **BBH-CoT**, **Moral**, **GSM8K**, **JSick**, and **Kuci**.  
+
+### Summary Tables (EM, %)
+
+**GPT-4o**
+
+| Prompt Type        | BBH-CoT | Moral | GSM8K | JSick | Kuci |
+|--------------------|:------:|:----:|:----:|:----:|:----:|
+| Baseline           |  8.83  | 94.09| 57.62| 70.10| 81.44|
+| Optimized (ours)   | **62.55** | — | **59.67** | **84.19** | **83.42** |
+
+**Claude 3.5 Haiku**
+
+| Prompt Type        | BBH-CoT | Moral | GSM8K | JSick | Kuci |
+|--------------------|:------:|:----:|:----:|:----:|:----:|
+| Baseline           | 12.20  | 51.45| 92.19|  0.00|  0.79|
+| Optimized (ours)   | **53.75** | **83.44** | — | **76.76** | **71.03** |
+
+*“—” indicates the optimized instruction was not applied for that model–dataset pair.*
 
 
 
