@@ -3,7 +3,7 @@
 [![uv](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/uv/main/assets/badge/v0.json)](https://github.com/astral-sh/uv)
 
 ## ✨ Project Overview
-This project develops a **Auto-Prompt-Tuning Agent** that searches for the best instruction to improve an LLM’s accuracy across different tasks (see datasets list below).  
+This project develops an agent that searches for the best instruction to improve an LLM’s accuracy across different tasks (see datasets list below).  
 
 You can mix and match models from multiple vendors for instruction optimization—including **OpenAI (GPT)**, **Google (Gemini)**, and **Anthropic (Claude)**—and set vendors/models independently for the **executor**, **scorer**, and **optimizer**.
 
