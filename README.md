@@ -14,7 +14,7 @@ In a typical assistant-user interaction, the prompt is composed of an **instruct
 **Winrate-Guided-Instruction-Tuning-Agent** is composed of 3 unit agents:
 
 - *Task Executor:* answers the questions.
-- *Scorer:* evaluates the TaskExecutor’s answers.
+- *Judge:* judges the TaskExecutor’s answers which are guided by baseline-instruction and optimized-instruction, respectively.
 - *Instruction Optimizer:* observes the <instruction, win rate> trajectory and updates the instruction accordingly.
 
 The Instruction Optimizer act as an optimizer to adjust the instruction iteratively based on the observed trajectory and returns the current baseline (the most competitive one) instruction at the end of the iteration. 
