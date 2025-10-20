@@ -294,13 +294,12 @@ uv run -m src.eval_acc \
 <br>
 
 ## 📈 Reference Results
+### Accuracy Comparison
 
 We report **Exact Match (EM, %)** on each dataset using (1) the dataset’s **baseline instruction** and (2) our **optimized instruction** produced by this project.  
 
 
 Evaluations are run with **GPT-4o** and **Claude 3.5 Haiku** across five benchmarks: **BBH-CoT**, **Moral**, **GSM8K**, **JSick**, and **Kuci**.  
-
-### Summary Tables (EM, %)
 
 **GPT-4o**
 
@@ -317,6 +316,106 @@ Evaluations are run with **GPT-4o** and **Claude 3.5 Haiku** across five benchma
 | Optimized (ours)   | **53.75** | **83.44** | — | **76.76** | **71.03** |
 
 *“—” indicates the optimized instruction was not applied for that model–dataset pair.*
+
+### Instruction Optimization Examples
+
+---
+
+### GSM8K
+**Baseline (EN)**
+~~~text
+Solve the given question. Return number only.
+~~~
+
+**Optimized (EN)**
+~~~text
+Accurately extract the quantitative relations in the word problem (sum, difference, multiple, ratio, “per-one”), and perform any necessary unit conversions. First, identify exactly one final quantity requested by the question and compute only that quantity. For discrete entities (items, books, bottles, boxes, groups, or “Y per X”), count only whole units; for patterns like “Y per X” and bundles/boxes/groups, use only the integer quotient after dividing by X and ignore any remainder unless it can be legitimately used. For money, do internal integer arithmetic in the smallest currency unit (e.g., cents) and convert back to the requested unit if needed. Perform all calculations internally and do not output intermediate steps. Output exactly one non-negative integer, with no units, symbols, commas, spaces, newlines, or extra characters. Before output, verify: (1) consistency of assumptions, quantitative relations, and units; (2) integerization due to discrete constraints; (3) if money, the value is an integer in the requested unit; and (4) absence of rounding or arbitrary treatment of fractions. If any check fails, revise the interpretation/calculation.
+~~~
+
+---
+
+### JSick
+**Baseline（JA）**
+~~~text
+前提と仮説の関係をentailment、contradiction、neutralの中から回答してください。
+
+制約：
+- 前提が真であるとき仮説が必ず真になる場合はentailmentと出力
+- 前提が真であるとき仮説が必ず偽になる場合はcontradictionと出力
+- そのいずれでもない場合はneutralと出力
+~~~
+
+**Optimized（JA）**
+~~~text
+前提と仮説の関係を判定せよ。入力は「前提：...」「仮説：...」の2文。出力は entailment / contradiction / neutral のいずれか1語のみ（半角小文字、前後の空白・改行や他の語句・句読点は禁止）。
+判定手順（優先順）：
+1) 同時に真になり得ないなら contradiction（否定・数量・比較「一人も」「全て」「少なくとも」「より多い/少ない」「ちょうど」等に注意）。
+2) 前提が仮説を必然的に真にするなら entailment（言い換え・包含関係は可）。ただし仮説が前提に新たな条件や詳細を付加しているだけなら entailment にはしない。
+3) それ以外は neutral（前提にない事実の推測や常識補完はしない）
+~~~
+
+---
+
+### KUCI
+**Baseline（JA）**
+~~~text
+文脈と選択肢を入力として受け取り、選択肢から文脈の後に続く文として最も適切なものを選択してください。
+なお、回答は選択肢の番号（例：0）でするものとします。
+~~~
+
+**Optimized（JA）**
+~~~text
+目的
+- 文脈に最も自然に続き、S=文脈+候補 が完結するものの番号（0–9）を半角1字で返す。勝率下限を上げる。
+
+入力
+- 形式：文脈：<テキスト>　選択肢：0.<候補>,1.<候補>,…
+- 候補の改変不可。番号は0–9。
+
+出力
+- 半角数字1字のみ（他文字・空白・改行なし）。
+
+評価対象
+- S＝文脈の直後に候補をそのまま続けた連続テキスト。
+- 外部知識に依存しない。
+
+失格（除外）
+- 非文・未完・従属節ぶら下がり
+- 明白な照応不能・矛盾・顕著な話題飛躍
+- 文体の大不一致（常体と敬体の混在など）
+
+接続整合（文脈末の形に応じる）
+- 原因（ので/から/ため/だから）→ 結果・判断で終止
+- 条件（と/たら/れば/なら/「と、」）→ 自然な結果・一般則
+- 逆接（が/けど/しかし/だが/のに/ものの）→ 対比・譲歩で収束
+- 列挙/追加（、/や/など/また/さらに/そして）→ 同系列の追加か簡潔な要約
+- 体言・助詞止め（〜の/〜ため/〜について/〜は/〜が/〜で/〜に/〜から）→ 述部を補って終止
+- 引用・疑問（〜と/「…」/？）→ それへの判断・応答
+- 直前の助詞・活用との文法的つながりも確認
+
+選定基準（優先順位）
+1) 完結性（終止形で曖昧な省略なし）
+2) 接続整合
+3) 一貫性（主語・時制・語の再利用／新規導入最小）
+4) 常識的妥当性（因果・語用の自然さ）
+5) 簡潔性（短い）
+
+同点時
+- 新規内容語が少ない → 文字数が短い → 番号が小さい の順。
+
+フォールバック
+- 全失格なら、最も文法的に成立し話題拡張の小さい候補。判断不能なら最小番号。
+
+手順
+1) 各候補で S を作る。
+2) 失格を除外。
+3) 接続整合と完結性を最優先に上記基準で一つ選ぶ。
+4) 同点・不確実時は同点規則・フォールバックを適用。
+
+自己チェック
+- 選んだ番号が選択肢に存在するか。
+- 出力は半角数字1字のみ（改行・他文字なし）。
+~~~
 
 
 
