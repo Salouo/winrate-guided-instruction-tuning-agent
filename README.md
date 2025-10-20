@@ -1,5 +1,5 @@
 # Winrate-Guided-Instruction-Tuning-Agent
-![python versions](https://img.shields.io/badge/python-3.12%20%7C%203.13-blue)
+![python versions](https://img.shields.io/badge/python-3.11%20%7C%203.12%20%7C%203.13-blue)
 [![uv](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/uv/main/assets/badge/v0.json)](https://github.com/astral-sh/uv)
 
 ## ✨ Project Overview
