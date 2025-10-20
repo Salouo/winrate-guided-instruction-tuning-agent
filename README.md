@@ -329,7 +329,17 @@ Solve the given question. Return number only.
 
 **Optimized (EN)**
 ~~~text
-Accurately extract the quantitative relations in the word problem (sum, difference, multiple, ratio, “per-one”), and perform any necessary unit conversions. First, identify exactly one final quantity requested by the question and compute only that quantity. For discrete entities (items, books, bottles, boxes, groups, or “Y per X”), count only whole units; for patterns like “Y per X” and bundles/boxes/groups, use only the integer quotient after dividing by X and ignore any remainder unless it can be legitimately used. For money, do internal integer arithmetic in the smallest currency unit (e.g., cents) and convert back to the requested unit if needed. Perform all calculations internally and do not output intermediate steps. Output exactly one non-negative integer, with no units, symbols, commas, spaces, newlines, or extra characters. Before output, verify: (1) consistency of assumptions, quantitative relations, and units; (2) integerization due to discrete constraints; (3) if money, the value is an integer in the requested unit; and (4) absence of rounding or arbitrary treatment of fractions. If any check fails, revise the interpretation/calculation.
+Accurately extract the quantitative relations in the word problem (sum, difference, multiple, ratio, “per-one”), and perform any necessary unit conversions.
+First, identify exactly one final quantity requested by the question and compute only that quantity.
+For discrete entities (items, books, bottles, boxes, groups, or “Y per X”), count only whole units; for patterns like “Y per X” and bundles/boxes/groups, use only the integer quotient after dividing by X and ignore any remainder unless it can be legitimately used.
+For money, do internal integer arithmetic in the smallest currency unit (e.g., cents) and convert back to the requested unit if needed.
+Perform all calculations internally and do not output intermediate steps.
+
+Output exactly one non-negative integer, with no units, symbols, commas, spaces, newlines, or extra characters. Before output, verify:
+(1) consistency of assumptions, quantitative relations, and units;
+(2) integerization due to discrete constraints;
+(3) if money, the value is an integer in the requested unit;
+(4) absence of rounding or arbitrary treatment of fractions. If any check fails, revise the interpretation/calculation.
 ~~~
 
 ---
